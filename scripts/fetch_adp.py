@@ -16,7 +16,7 @@ import requests
 from _common import ADP_DIR, adp_format, current_season, ensure_dirs, league_teams, load_env, today_str
 
 FFC_URL = "https://fantasyfootballcalculator.com/api/v1/adp/{fmt}"
-FP_URL = "https://api.fantasypros.com/v2/json/nfl/{season}/consensus-rankings"
+FP_URL = "https://api.fantasypros.com/public/v2/json/nfl/{season}/consensus-rankings"
 FP_SCORING = {"ppr": "PPR", "half-ppr": "HALF", "standard": "STD", "2qb": "PPR"}
 
 COLUMNS = ["rank", "name", "position", "team", "adp", "high", "low", "stdev", "bye", "source"]
@@ -41,7 +41,7 @@ def fetch_fantasypros(season: int, api_key: str) -> pd.DataFrame | None:
     try:
         resp = requests.get(
             FP_URL.format(season=season),
-            params={"type": "adp", "scoring": FP_SCORING.get(adp_format(), "PPR"), "position": "ALL"},
+            params={"type": "ADP", "scoring": FP_SCORING.get(adp_format(), "PPR"), "position": "ALL"},
             headers={"x-api-key": api_key},
             timeout=30,
         )
@@ -55,6 +55,10 @@ def fetch_fantasypros(season: int, api_key: str) -> pd.DataFrame | None:
         return None
     rows = []
     for p in players:
+        # player_name/player_position_id/player_team_id/rank_ecr are documented fields
+        # for the NFL consensus-rankings player object. rank_ave/rank_min/rank_max/rank_std
+        # are only documented for the MLB/NBA sibling schemas, not NFL — kept here as
+        # defensive fallbacks since the live API commonly returns them for NFL too.
         adp = p.get("adp") or p.get("rank_ave") or p.get("rank_ecr")
         rows.append(
             {
@@ -62,7 +66,10 @@ def fetch_fantasypros(season: int, api_key: str) -> pd.DataFrame | None:
                 "position": p.get("player_position_id") or p.get("position"),
                 "team": p.get("player_team_id") or p.get("team"),
                 "adp": float(adp) if adp else None,
+                "high": p.get("rank_min"),
+                "low": p.get("rank_max"),
                 "stdev": p.get("rank_std"),
+                "bye": p.get("player_bye_week"),
             }
         )
     df = pd.DataFrame(rows).dropna(subset=["name", "adp"])
