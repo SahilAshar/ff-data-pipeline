@@ -1,0 +1,16 @@
+# Environment
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/
+
+# Large cached data (re-fetchable from Sleeper API)
+data/league/players.json
+
+# OS
+.DS_Store

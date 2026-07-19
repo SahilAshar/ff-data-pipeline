@@ -1,0 +1,17 @@
+[project]
+name = "ff-data-pipeline"
+version = "0.1.0"
+description = "Fantasy football ADP tracking and draft prep pipeline (8-team Sleeper league)"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.0",
+    "matplotlib>=3.8",
+    "requests>=2.31",
+    "sleeper-api-wrapper>=1.1.0",
+]
+
+[tool.setuptools]
+packages = []
+
+[tool.uv]
+package = false
