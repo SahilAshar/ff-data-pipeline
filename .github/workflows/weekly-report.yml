@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
 
 env:
+  TZ: America/New_York # report/snapshot filenames use the local date
   SLEEPER_LEAGUE_ID: "1384188162011566080"
   LEAGUE_TEAMS: "10"
   ADP_FORMAT: half-ppr
