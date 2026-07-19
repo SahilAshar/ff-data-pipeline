@@ -15,7 +15,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import pandas as pd
 
-from _common import ADP_DIR, CHARTS_DIR, ensure_dirs, league_teams, load_env, today_str
+from _common import ADP_DIR, CHARTS_DIR, adp_format, ensure_dirs, league_teams, load_env, today_str
 from compute_deltas import compute_deltas, list_snapshots, top_movers
 
 # Chart chrome (validated default palette — light mode; see dataviz palette reference)
@@ -55,7 +55,7 @@ def _figure(title: str, subtitle: str):
 
 def _save(fig, name: str) -> str:
     path = CHARTS_DIR / name
-    fig.text(0.06, 0.02, "Data: Fantasy Football Calculator ADP (PPR)", fontsize=8, color=MUTED)
+    fig.text(0.06, 0.02, f"Data: Fantasy Football Calculator ADP ({adp_format()})", fontsize=8, color=MUTED)
     fig.savefig(path, bbox_inches="tight", facecolor=SURFACE)
     plt.close(fig)
     print(f"  chart: {path.name}")

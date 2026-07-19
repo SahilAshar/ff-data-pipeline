@@ -13,16 +13,17 @@ import sys
 import pandas as pd
 import requests
 
-from _common import ADP_DIR, current_season, ensure_dirs, league_teams, load_env, today_str
+from _common import ADP_DIR, adp_format, current_season, ensure_dirs, league_teams, load_env, today_str
 
-FFC_URL = "https://fantasyfootballcalculator.com/api/v1/adp/ppr"
+FFC_URL = "https://fantasyfootballcalculator.com/api/v1/adp/{fmt}"
 FP_URL = "https://api.fantasypros.com/v2/json/nfl/{season}/consensus-rankings"
+FP_SCORING = {"ppr": "PPR", "half-ppr": "HALF", "standard": "STD", "2qb": "PPR"}
 
 COLUMNS = ["rank", "name", "position", "team", "adp", "high", "low", "stdev", "bye", "source"]
 
 
 def fetch_ffc(season: int, teams: int) -> pd.DataFrame:
-    resp = requests.get(FFC_URL, params={"teams": teams, "year": season}, timeout=30)
+    resp = requests.get(FFC_URL.format(fmt=adp_format()), params={"teams": teams, "year": season}, timeout=30)
     resp.raise_for_status()
     players = resp.json().get("players", [])
     if not players:
@@ -40,7 +41,7 @@ def fetch_fantasypros(season: int, api_key: str) -> pd.DataFrame | None:
     try:
         resp = requests.get(
             FP_URL.format(season=season),
-            params={"type": "adp", "scoring": "PPR", "position": "ALL"},
+            params={"type": "adp", "scoring": FP_SCORING.get(adp_format(), "PPR"), "position": "ALL"},
             headers={"x-api-key": api_key},
             timeout=30,
         )
@@ -77,7 +78,7 @@ def fetch_snapshot() -> pd.DataFrame:
     season = current_season()
     teams = league_teams()
 
-    print(f"Fetching ADP for {season} season ({teams}-team PPR)...")
+    print(f"Fetching ADP for {season} season ({teams}-team {adp_format()})...")
     frames = [fetch_ffc(season, teams)]
     print(f"  FFC: {len(frames[0])} players")
 

@@ -1,0 +1,146 @@
+[
+  {
+    "avatar": "babd67cb3569f79abf60010caf41d7d9",
+    "display_name": "SpencerJ",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1384188162011566080",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "607351324090130432"
+  },
+  {
+    "avatar": "5465a43bf96c8b16dc460cbf1b67e29c",
+    "display_name": "JackMcgRocks",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1384188162011566080",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "655225256499310592"
+  },
+  {
+    "avatar": "0adab0e418648d7e621666b81bc9bb08",
+    "display_name": "0xAshar",
+    "is_bot": false,
+    "is_owner": true,
+    "league_id": "1384188162011566080",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on",
+      "team_name": "Allen my ass"
+    },
+    "settings": null,
+    "user_id": "656303088369512448"
+  },
+  {
+    "avatar": "b3338675f635c2c1f42b469621d38ec6",
+    "display_name": "realballoon",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1384188162011566080",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on",
+      "team_name": "Injured Reserve"
+    },
+    "settings": null,
+    "user_id": "662706629082451968"
+  },
+  {
+    "avatar": "0435fec457cdd294744773fe62e96a64",
+    "display_name": "NOBrien27",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1384188162011566080",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "mention_pn": "on",
+      "team_name": "jorking my penix"
+    },
+    "settings": null,
+    "user_id": "843572773975588864"
+  },
+  {
+    "avatar": "4f4090e5e9c3941414db40a871e3e909",
+    "display_name": "BigBlackNoir8D",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1384188162011566080",
+    "metadata": {
+      "allow_pn": "on",
+      "archived": "off",
+      "avatar": "https://sleepercdn.com/uploads/0b8ca284ea796e00558083dad796d31b.jpg",
+      "mention_pn": "on",
+      "team_name": "What did she say?!!?"
+    },
+    "settings": null,
+    "user_id": "862072589089087488"
+  },
+  {
+    "avatar": "82aec8e811b839b8ec25d7b458afd57b",
+    "display_name": "Saket_",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1384188162011566080",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "mention_pn": "on",
+      "team_name": "Joe Buck Yourself"
+    },
+    "settings": null,
+    "user_id": "1002103568708534272"
+  },
+  {
+    "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+    "display_name": "jersherwer",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1384188162011566080",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "avatar": "https://sleepercdn.com/uploads/488e91bdea30693ec7f195afd6abaf81.jpg",
+      "mention_pn": "on",
+      "team_name": "Utter Trash"
+    },
+    "settings": null,
+    "user_id": "1005242318808592384"
+  },
+  {
+    "avatar": "8eb8f8bf999945d523f2c4033f70473e",
+    "display_name": "dnla11",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1384188162011566080",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on",
+      "team_name": "Fraudulent 2024 Winner "
+    },
+    "settings": null,
+    "user_id": "1129596628450754560"
+  },
+  {
+    "avatar": "4f4090e5e9c3941414db40a871e3e909",
+    "display_name": "nassosterz",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1384188162011566080",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on",
+      "team_name": "DannyDimes"
+    },
+    "settings": null,
+    "user_id": "1132137795541307392"
+  }
+]

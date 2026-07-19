@@ -10,7 +10,7 @@ import sys
 
 import pandas as pd
 
-from _common import REPORTS_DIR, ROOT, ensure_dirs, league_teams, load_env, today_str
+from _common import REPORTS_DIR, ROOT, adp_format, ensure_dirs, league_teams, load_env, today_str
 import fetch_adp
 import compute_deltas as deltas_mod
 import generate_charts
@@ -35,18 +35,18 @@ def scarcity_section(snapshot: pd.DataFrame) -> str:
     early = df.nsmallest(teams * 5, "adp")  # first 5 rounds
     counts = early["position"].value_counts()
     lines = [
-        f"In an **{teams}-team league** replacement level runs much deeper than standard 10/12-team "
-        "ADP assumes — consensus ADP overprices positional scarcity. Composition of the first 5 rounds "
-        f"(top {teams * 5} picks):",
+        f"Composition of the first 5 rounds (top {teams * 5} picks) in **{teams}-team {adp_format()}** drafts:",
         "",
     ]
     for pos, n in counts.items():
         lines.append(f"- **{pos}**: {n} drafted in the first 5 rounds")
-    lines.append("")
-    lines.append(
-        f"Onesie positions (QB/TE) are startable off the waiver wire in an {teams}-teamer — "
-        "fade early-round QB/TE unless the tier cliff is real."
-    )
+    if teams <= 10:
+        lines += [
+            "",
+            f"With {teams} teams, replacement level runs deeper than the 12-team consensus most rankings "
+            "assume — onesie positions (QB/TE) are startable off the waiver wire, so fade early-round "
+            "QB/TE unless the tier cliff is real. Two FLEX spots push RB/WR depth demand up.",
+        ]
     return "\n".join(lines)
 
 
@@ -58,7 +58,7 @@ def build_report(snapshot: pd.DataFrame, deltas: pd.DataFrame | None, charts: di
     parts = [
         f"# ADP Report — {date}",
         "",
-        f"*{len(ffc)} players tracked · sources: {sources} · {league_teams()}-team PPR*",
+        f"*{len(ffc)} players tracked · sources: {sources} · {league_teams()}-team {adp_format()}*",
         "",
     ]
 

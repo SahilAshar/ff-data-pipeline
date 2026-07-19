@@ -3,8 +3,9 @@
 Automated fantasy football ADP tracking and draft prep pipeline. Takes weekly ADP
 snapshots from public sources, computes week-over-week movement (risers/fallers),
 generates shareable movement charts, and syncs league data from the Sleeper API —
-tuned for an 8-team PPR league where positional scarcity works differently than
-consensus ADP assumes.
+tuned for a 10-team half-PPR league ("Injury Prone" on Sleeper) with two FLEX
+spots, where positional scarcity works differently than 12-team consensus ADP
+assumes.
 
 ## Latest ADP Movement
 
@@ -49,7 +50,7 @@ reports/        # weekly markdown reports
 
 | Source | Access | Used for |
 |---|---|---|
-| [Fantasy Football Calculator](https://fantasyfootballcalculator.com/adp) | Free JSON API, no key | Primary ADP (real + mock drafts, supports 8-team format) |
+| [Fantasy Football Calculator](https://fantasyfootballcalculator.com/adp) | Free JSON API, no key | Primary ADP (real + mock drafts, league-size + scoring-format aware) |
 | [FantasyPros](https://www.fantasypros.com/apis/) | Free API key | Consensus ADP triangulation (optional) |
 | [Sleeper API](https://docs.sleeper.com/) | Free, no auth | League settings, rosters, draft picks, player DB |
 

@@ -30,7 +30,12 @@ def load_env() -> None:
 
 
 def league_teams() -> int:
-    return int(os.environ.get("LEAGUE_TEAMS", "8"))
+    return int(os.environ.get("LEAGUE_TEAMS", "10"))
+
+
+def adp_format() -> str:
+    """FFC scoring format slug: ppr, half-ppr, standard, or 2qb."""
+    return os.environ.get("ADP_FORMAT", "half-ppr")
 
 
 def today_str() -> str:
