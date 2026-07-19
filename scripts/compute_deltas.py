@@ -1,12 +1,16 @@
-"""Compute week-over-week ADP movement from the two most recent snapshots.
+"""Compute ADP movement: latest snapshot vs the one closest to N days back.
+
+Snapshots may accumulate daily; deltas default to a 7-day comparison window
+so week-over-week movement stays meaningful regardless of collection cadence.
 
 Delta convention: delta = current_rank - previous_rank.
   Negative = rising (drafted earlier than last week)
   Positive = falling (drafted later than last week)
 
-Usage: python scripts/compute_deltas.py
+Usage: python scripts/compute_deltas.py [days_back]
 """
 
+import datetime
 import sys
 
 import pandas as pd
@@ -19,13 +23,15 @@ def list_snapshots() -> list:
     return sorted(p for p in ADP_DIR.glob("*.csv") if not p.name.startswith("deltas"))
 
 
-def compute_deltas(source: str = "ffc") -> pd.DataFrame | None:
-    """Return a delta DataFrame from the two latest snapshots, or None if fewer than 2 exist."""
+def compute_deltas(source: str = "ffc", days_back: int = 7) -> pd.DataFrame | None:
+    """Latest snapshot vs the prior one closest to days_back ago. None if fewer than 2 exist."""
     snaps = list_snapshots()
     if len(snaps) < 2:
         return None
 
-    prev_path, curr_path = snaps[-2], snaps[-1]
+    curr_path = snaps[-1]
+    target = datetime.date.fromisoformat(curr_path.stem) - datetime.timedelta(days=days_back)
+    prev_path = min(snaps[:-1], key=lambda p: abs(datetime.date.fromisoformat(p.stem) - target))
     prev = pd.read_csv(prev_path)
     curr = pd.read_csv(curr_path)
     prev = prev[prev["source"] == source]
@@ -55,7 +61,8 @@ def top_movers(deltas: pd.DataFrame, n: int = 10) -> tuple[pd.DataFrame, pd.Data
 
 def main() -> None:
     ensure_dirs()
-    deltas = compute_deltas()
+    days_back = int(sys.argv[1]) if len(sys.argv) > 1 else 7
+    deltas = compute_deltas(days_back=days_back)
     if deltas is None:
         n = len(list_snapshots())
         print(f"Need at least 2 snapshots to compute deltas (found {n}).")

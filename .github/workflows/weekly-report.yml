@@ -1,0 +1,32 @@
+name: Weekly ADP report
+
+on:
+  schedule:
+    - cron: "20 13 * * 3" # Wednesdays 9:20 AM ET during EDT, after the daily snapshot
+  workflow_dispatch:
+
+env:
+  SLEEPER_LEAGUE_ID: "1384188162011566080"
+  LEAGUE_TEAMS: "10"
+  ADP_FORMAT: half-ppr
+  FANTASYPROS_API_KEY: ${{ secrets.FANTASYPROS_API_KEY }}
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install .
+      - run: python scripts/weekly_report.py
+      - name: Commit report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ charts/ reports/ README.md
+          git diff --cached --quiet || git commit -m "Weekly ADP report $(date -u +%F)"
+          git push
