@@ -51,7 +51,7 @@ reports/        # weekly markdown reports
 | Source | Access | Used for |
 |---|---|---|
 | [Fantasy Football Calculator](https://fantasyfootballcalculator.com/adp) | Free JSON API, no key | Primary ADP (real + mock drafts, league-size + scoring-format aware) |
-| [FantasyPros](https://www.fantasypros.com/apis/) | Free API key | Consensus ADP triangulation (optional) |
+| [FantasyPros](https://www.fantasypros.com/apis/) | Free API key (50 req/day) | Consensus ADP triangulation (optional) |
 | [Sleeper API](https://docs.sleeper.com/) | Free, no auth | League settings, rosters, draft picks, player DB |
 
 Delta convention: `delta = this_week_rank - last_week_rank` — negative is rising,

@@ -16,6 +16,8 @@ import requests
 from _common import ADP_DIR, adp_format, current_season, ensure_dirs, league_teams, load_env, today_str
 
 FFC_URL = "https://fantasyfootballcalculator.com/api/v1/adp/{fmt}"
+# Free-tier keys are limited to 50 requests/day — scheduled usage is ~2/day, but
+# keep that budget in mind for any ad-hoc tooling (draft-day queries, backtests).
 FP_URL = "https://api.fantasypros.com/public/v2/json/nfl/{season}/consensus-rankings"
 FP_SCORING = {"ppr": "PPR", "half-ppr": "HALF", "standard": "STD", "2qb": "PPR"}
 
