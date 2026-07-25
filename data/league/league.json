@@ -57,10 +57,10 @@
   },
   "avatar": null,
   "company_id": null,
-  "shard": 279,
-  "season": "2026",
-  "season_type": "regular",
   "sport": "nfl",
+  "season_type": "regular",
+  "season": "2026",
+  "shard": 279,
   "scoring_settings": {
     "sack": 1.0,
     "fgm_40_49": 4.0,
