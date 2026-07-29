@@ -10,9 +10,9 @@ assumes.
 ## Latest ADP Movement
 
 <!-- ADP:START -->
-Latest report: [reports/2026-07-22.md](reports/2026-07-22.md)
+Latest report: [reports/2026-07-29.md](reports/2026-07-29.md)
 
-![latest ADP chart](charts/risers-2026-07-22.png)
+![latest ADP chart](charts/risers-2026-07-29.png)
 <!-- ADP:END -->
 
 ## Setup
