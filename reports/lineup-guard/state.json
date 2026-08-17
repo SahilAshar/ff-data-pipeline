@@ -6,7 +6,7 @@
   "user": "0xAshar",
   "alert": true,
   "red": false,
-  "changed": true,
+  "changed": false,
   "signature": [
     "FLEX:4983:YELLOW"
   ],
