@@ -1,79 +1,40 @@
 {
   "season": "2026",
-  "week": 7,
+  "week": 2,
   "season_type": "pre",
-  "run_at_et": "2026-08-17T08:54-04:00",
+  "run_at_et": "2026-08-17T08:55-04:00",
   "user": "0xAshar",
   "alert": true,
-  "red": true,
+  "red": false,
   "changed": true,
   "signature": [
-    "FLEX:12490:RED",
-    "FLEX:4983:RED",
-    "QB:4984:RED"
+    "FLEX:4983:YELLOW"
   ],
   "alerts": [
-    {
-      "slot": "QB",
-      "player_id": "4984",
-      "player": "Josh Allen (QB, BUF)",
-      "level": "RED",
-      "reason": "BYE (week 7)",
-      "alternatives": []
-    },
-    {
-      "slot": "FLEX",
-      "player_id": "12490",
-      "player": "Bhayshul Tuten (RB, JAX)",
-      "level": "RED",
-      "reason": "BYE (week 7)",
-      "alternatives": [
-        {
-          "player": "Rico Dowdle (RB, PIT)",
-          "pts": 10.4,
-          "flag": ""
-        },
-        {
-          "player": "Josh Downs (WR, IND)",
-          "pts": 10.0,
-          "flag": ""
-        },
-        {
-          "player": "Dallas Goedert (TE, PHI)",
-          "pts": 6.9,
-          "flag": ""
-        }
-      ]
-    },
     {
       "slot": "FLEX",
       "player_id": "4983",
       "player": "DJ Moore (WR, BUF)",
-      "level": "RED",
-      "reason": "BYE (week 7)",
+      "level": "YELLOW",
+      "reason": "Questionable \u2014 Lower Body",
       "alternatives": [
         {
-          "player": "Rico Dowdle (RB, PIT)",
-          "pts": 10.4,
-          "flag": ""
-        },
-        {
           "player": "Josh Downs (WR, IND)",
-          "pts": 10.0,
+          "pts": 11.3,
           "flag": ""
         },
         {
-          "player": "Dallas Goedert (TE, PHI)",
-          "pts": 6.9,
+          "player": "Rico Dowdle (RB, PIT)",
+          "pts": 10.2,
+          "flag": ""
+        },
+        {
+          "player": "Khalil Shakir (WR, BUF)",
+          "pts": 8.9,
           "flag": ""
         }
       ]
     }
   ],
-  "bye_teams": [
-    "BUF",
-    "JAX",
-    "LAC",
-    "WAS"
-  ]
+  "bye_teams": []
 }
