@@ -1,0 +1,117 @@
+name: Lineup guard
+
+# Pre-kickoff availability check for the 0xAshar roster. Flags empty slots,
+# byes, Out/Doubtful/IR/PUP starters and Questionable tags, and suggests bench
+# swaps from Sleeper's half-PPR projections. Opens (or comments on) a GitHub
+# Issue assigned to the owner ONLY when the set of flagged starters changes, so
+# a normal week produces one notification per new problem, not one per run.
+#
+# The script exits quietly outside the regular/post season, so the extra
+# schedule entries needed to cover both EDT and EST are free.
+
+on:
+  schedule:
+    # Thursday night kickoff (~8:15 PM ET). 19:35 EDT / 19:35 EST + one later pass.
+    - cron: "35 23 * * 4"   # Thu 19:35 EDT  (18:35 EST)
+    - cron: "35 0 * * 5"    # Fri 00:35 UTC = Thu 20:35 EDT / 19:35 EST
+    # Sunday early window (1:00 PM ET). Inactives drop ~11:30 ET. Several passes
+    # because Actions cron can lag 30–60 min.
+    - cron: "5 15 * * 0"    # 11:05 EDT / 10:05 EST
+    - cron: "35 15 * * 0"   # 11:35 EDT / 10:35 EST
+    - cron: "5 16 * * 0"    # 12:05 EDT / 11:05 EST
+    - cron: "35 16 * * 0"   # 12:35 EDT / 11:35 EST
+    # Sunday late window (4:05/4:25 PM ET).
+    - cron: "35 19 * * 0"   # 15:35 EDT / 14:35 EST
+    - cron: "35 20 * * 0"   # 16:35 EDT / 15:35 EST
+    # Monday night.
+    - cron: "35 23 * * 1"   # Mon 19:35 EDT
+    - cron: "35 0 * * 2"    # Tue 00:35 UTC = Mon 20:35 EDT / 19:35 EST
+    # Saturday games in weeks 15–17.
+    - cron: "5 20 * * 6"    # 16:05 EDT / 15:05 EST
+  workflow_dispatch:
+    inputs:
+      week:
+        description: "NFL week (blank = current)"
+        required: false
+        default: ""
+      force:
+        description: "Run even outside the regular season"
+        type: boolean
+        default: true
+
+env:
+  TZ: America/New_York
+  SLEEPER_LEAGUE_ID: "1384188162011566080"
+  SLEEPER_USER_ID: "656303088369512448"
+
+# Never let two guard runs (or a guard and the daily snapshot) push at once.
+concurrency:
+  group: ff-data-pipeline-commits
+  cancel-in-progress: false
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+
+      - name: Run guard
+        id: guard
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.week }}" ]; then ARGS="$ARGS --week ${{ github.event.inputs.week }}"; fi
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
+          python scripts/lineup_guard.py $ARGS
+
+      - name: Commit report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports/lineup-guard/
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Lineup guard $(date +%F\ %H:%M) ET"
+          git pull --rebase origin main
+          git push
+
+      # ---- Alerting via GitHub Issue (push notification on GitHub mobile / email) ----
+      - name: Open or update issue
+        if: steps.guard.outputs.alert == 'true' && steps.guard.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TITLE: ${{ steps.guard.outputs.title }}
+          WEEK: ${{ steps.guard.outputs.week }}
+          SEASON: ${{ steps.guard.outputs.season }}
+        run: |
+          gh label create lineup-guard --color D93F0B --description "Pre-kickoff lineup alerts" 2>/dev/null || true
+          KEY="Lineup guard — ${SEASON} week ${WEEK}"
+          NUM=$(gh issue list --label lineup-guard --state open --search "in:title \"$KEY\"" --json number,title \
+                --jq "map(select(.title | startswith(\"$KEY\"))) | .[0].number // empty")
+          BODY_FILE=reports/lineup-guard/latest.md
+          if [ -z "$NUM" ]; then
+            gh issue create --title "$TITLE" --label lineup-guard --assignee "${{ github.repository_owner }}" \
+              --body-file "$BODY_FILE"
+          else
+            gh issue edit "$NUM" --title "$TITLE"
+            gh issue comment "$NUM" --body-file "$BODY_FILE"
+          fi
+
+      - name: Close issue when clear
+        if: steps.guard.outputs.alert == 'false'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          WEEK: ${{ steps.guard.outputs.week }}
+          SEASON: ${{ steps.guard.outputs.season }}
+        run: |
+          KEY="Lineup guard — ${SEASON} week ${WEEK}"
+          NUM=$(gh issue list --label lineup-guard --state open --search "in:title \"$KEY\"" --json number,title \
+                --jq "map(select(.title | startswith(\"$KEY\"))) | .[0].number // empty")
+          if [ -n "$NUM" ]; then
+            gh issue close "$NUM" --comment "All starters available as of $(date '+%a %I:%M %p ET')."
+          fi

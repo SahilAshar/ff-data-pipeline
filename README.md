@@ -37,6 +37,20 @@ Run `weekly_report.py` once a week (cron on Wednesdays recommended — ADP settl
 midweek after camp news). Deltas and risers/fallers charts appear automatically
 once two snapshots exist.
 
+## Lineup guard (in-season)
+
+`scripts/lineup_guard.py` checks the 0xAshar starting lineup before every kickoff
+window — empty slots, byes, Out/Doubtful/IR/PUP starters, Questionable tags — and
+suggests bench swaps from Sleeper's weekly half-PPR projections. Report lands in
+`reports/lineup-guard/latest.md`. The `Lineup guard` workflow runs it Thu/Sun/Mon
+(and Sat late season) and opens or updates a GitHub Issue **assigned to the repo
+owner** only when the set of flagged starters changes; it closes the issue once
+the lineup is clean. Quiet outside the regular season.
+
+```bash
+python scripts/lineup_guard.py --force --week 7   # dry run for any week
+```
+
 ## Data layout
 
 ```

@@ -1,0 +1,40 @@
+{
+  "season": "2026",
+  "week": 2,
+  "season_type": "pre",
+  "run_at_et": "2026-08-17T08:53-04:00",
+  "user": "0xAshar",
+  "alert": true,
+  "red": false,
+  "changed": true,
+  "signature": [
+    "FLEX:4983:YELLOW"
+  ],
+  "alerts": [
+    {
+      "slot": "FLEX",
+      "player_id": "4983",
+      "player": "DJ Moore (WR, BUF)",
+      "level": "YELLOW",
+      "reason": "Questionable \u2014 Lower Body",
+      "alternatives": [
+        {
+          "player": "Josh Downs (WR, IND)",
+          "pts": 11.3,
+          "flag": ""
+        },
+        {
+          "player": "Rico Dowdle (RB, PIT)",
+          "pts": 10.2,
+          "flag": ""
+        },
+        {
+          "player": "Khalil Shakir (WR, BUF)",
+          "pts": 8.9,
+          "flag": ""
+        }
+      ]
+    }
+  ],
+  "bye_teams": []
+}

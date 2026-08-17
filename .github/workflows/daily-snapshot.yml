@@ -12,6 +12,10 @@ env:
   ADP_FORMAT: half-ppr
   FANTASYPROS_API_KEY: ${{ secrets.FANTASYPROS_API_KEY }}
 
+concurrency:
+  group: ff-data-pipeline-commits
+  cancel-in-progress: false
+
 jobs:
   snapshot:
     runs-on: ubuntu-latest
