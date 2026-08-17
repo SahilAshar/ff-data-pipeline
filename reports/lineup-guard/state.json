@@ -1,40 +1,79 @@
 {
   "season": "2026",
-  "week": 2,
+  "week": 7,
   "season_type": "pre",
-  "run_at_et": "2026-08-17T08:53-04:00",
+  "run_at_et": "2026-08-17T08:54-04:00",
   "user": "0xAshar",
   "alert": true,
-  "red": false,
-  "changed": false,
+  "red": true,
+  "changed": true,
   "signature": [
-    "FLEX:4983:YELLOW"
+    "FLEX:12490:RED",
+    "FLEX:4983:RED",
+    "QB:4984:RED"
   ],
   "alerts": [
+    {
+      "slot": "QB",
+      "player_id": "4984",
+      "player": "Josh Allen (QB, BUF)",
+      "level": "RED",
+      "reason": "BYE (week 7)",
+      "alternatives": []
+    },
+    {
+      "slot": "FLEX",
+      "player_id": "12490",
+      "player": "Bhayshul Tuten (RB, JAX)",
+      "level": "RED",
+      "reason": "BYE (week 7)",
+      "alternatives": [
+        {
+          "player": "Rico Dowdle (RB, PIT)",
+          "pts": 10.4,
+          "flag": ""
+        },
+        {
+          "player": "Josh Downs (WR, IND)",
+          "pts": 10.0,
+          "flag": ""
+        },
+        {
+          "player": "Dallas Goedert (TE, PHI)",
+          "pts": 6.9,
+          "flag": ""
+        }
+      ]
+    },
     {
       "slot": "FLEX",
       "player_id": "4983",
       "player": "DJ Moore (WR, BUF)",
-      "level": "YELLOW",
-      "reason": "Questionable \u2014 Lower Body",
+      "level": "RED",
+      "reason": "BYE (week 7)",
       "alternatives": [
         {
-          "player": "Josh Downs (WR, IND)",
-          "pts": 11.3,
-          "flag": ""
-        },
-        {
           "player": "Rico Dowdle (RB, PIT)",
-          "pts": 10.2,
+          "pts": 10.4,
           "flag": ""
         },
         {
-          "player": "Khalil Shakir (WR, BUF)",
-          "pts": 8.9,
+          "player": "Josh Downs (WR, IND)",
+          "pts": 10.0,
+          "flag": ""
+        },
+        {
+          "player": "Dallas Goedert (TE, PHI)",
+          "pts": 6.9,
           "flag": ""
         }
       ]
     }
   ],
-  "bye_teams": []
+  "bye_teams": [
+    "BUF",
+    "JAX",
+    "LAC",
+    "WAS"
+  ]
 }
