@@ -1,36 +1,31 @@
 {
   "season": "2026",
-  "week": 2,
-  "season_type": "pre",
-  "run_at_et": "2026-08-17T08:55-04:00",
+  "week": 1,
+  "season_type": "regular",
+  "run_at_et": "2026-08-30T14:29-04:00",
   "user": "0xAshar",
   "alert": true,
   "red": false,
   "changed": true,
   "signature": [
-    "FLEX:4983:YELLOW"
+    "RB:12529:YELLOW"
   ],
   "alerts": [
     {
-      "slot": "FLEX",
-      "player_id": "4983",
-      "player": "DJ Moore (WR, BUF)",
+      "slot": "RB",
+      "player_id": "12529",
+      "player": "TreVeyon Henderson (RB, NE)",
       "level": "YELLOW",
-      "reason": "Questionable \u2014 Lower Body",
+      "reason": "Questionable \u2014 Leg",
       "alternatives": [
         {
-          "player": "Josh Downs (WR, IND)",
-          "pts": 11.3,
-          "flag": ""
-        },
-        {
           "player": "Rico Dowdle (RB, PIT)",
-          "pts": 10.2,
+          "pts": 11.1,
           "flag": ""
         },
         {
-          "player": "Khalil Shakir (WR, BUF)",
-          "pts": 8.9,
+          "player": "MarShawn Lloyd (RB, GB)",
+          "pts": 4.3,
           "flag": ""
         }
       ]
