@@ -2,11 +2,11 @@
   "season": "2026",
   "week": 1,
   "season_type": "regular",
-  "run_at_et": "2026-08-30T14:29-04:00",
+  "run_at_et": "2026-08-30T14:47-04:00",
   "user": "0xAshar",
   "alert": true,
   "red": false,
-  "changed": true,
+  "changed": false,
   "signature": [
     "RB:12529:YELLOW"
   ],
