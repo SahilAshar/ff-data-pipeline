@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 1
 
-Run Sun 2026-08-30 06:53 PM ET · season_type=regular · byes this week: none/unknown
+Run Mon 2026-08-31 10:01 PM ET · season_type=regular · byes this week: none/unknown
 
 ## Starters
 
@@ -21,7 +21,7 @@ Run Sun 2026-08-30 06:53 PM ET · season_type=regular · byes this week: none/un
 
 - **RB: TreVeyon Henderson (RB, NE)** — Questionable — Leg
     - swap in Rico Dowdle (RB, PIT) — proj 11.1
-    - swap in MarShawn Lloyd (RB, GB) — proj 4.3
+    - swap in MarShawn Lloyd (RB, GB) — proj 9.9
 
 ## Bench
 
@@ -29,10 +29,10 @@ Run Sun 2026-08-30 06:53 PM ET · season_type=regular · byes this week: none/un
 |---|--:|---|
 | Rico Dowdle (RB, PIT) | 11.1 | 🟢  |
 | Josh Downs (WR, IND) | 10.2 | 🟡 Questionable — Undisclosed |
+| MarShawn Lloyd (RB, GB) | 9.9 | 🟢  |
 | Khalil Shakir (WR, BUF) | 9.1 | 🟡 Questionable — Undisclosed |
 | Dallas Goedert (TE, PHI) | 7.9 | 🟢  |
 | Alec Pierce (WR, IND) (IR slot) | 7.6 | 🟡 Questionable — Ankle |
-| MarShawn Lloyd (RB, GB) | 4.3 | 🟢  |
 
 ## Projection swaps (info only, ≥ 2.0 pt edge)
 
