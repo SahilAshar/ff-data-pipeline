@@ -403,7 +403,9 @@
       "9753",
       "PIT"
     ],
-    "reserve": null,
+    "reserve": [
+      "9753"
+    ],
     "roster_id": 8,
     "settings": {
       "fpts": 0,
