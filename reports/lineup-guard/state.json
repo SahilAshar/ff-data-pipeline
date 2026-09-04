@@ -2,12 +2,13 @@
   "season": "2026",
   "week": 1,
   "season_type": "regular",
-  "run_at_et": "2026-09-01T01:34-04:00",
+  "run_at_et": "2026-09-03T21:15-04:00",
   "user": "0xAshar",
   "alert": true,
   "red": false,
-  "changed": false,
+  "changed": true,
   "signature": [
+    "FLEX:12490:YELLOW",
     "RB:12529:YELLOW"
   ],
   "alerts": [
@@ -22,6 +23,30 @@
           "player": "Rico Dowdle (RB, PIT)",
           "pts": 11.1,
           "flag": ""
+        },
+        {
+          "player": "MarShawn Lloyd (RB, GB)",
+          "pts": 9.9,
+          "flag": ""
+        }
+      ]
+    },
+    {
+      "slot": "FLEX",
+      "player_id": "12490",
+      "player": "Bhayshul Tuten (RB, JAX)",
+      "level": "YELLOW",
+      "reason": "Questionable \u2014 Illness",
+      "alternatives": [
+        {
+          "player": "Rico Dowdle (RB, PIT)",
+          "pts": 11.1,
+          "flag": ""
+        },
+        {
+          "player": "Josh Downs (WR, IND)",
+          "pts": 10.2,
+          "flag": "Questionable \u2014 Undisclosed"
         },
         {
           "player": "MarShawn Lloyd (RB, GB)",
