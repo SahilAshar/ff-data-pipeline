@@ -2,7 +2,7 @@
   "season": "2026",
   "week": 1,
   "season_type": "regular",
-  "run_at_et": "2026-09-04T00:58-04:00",
+  "run_at_et": "2026-09-05T18:00-04:00",
   "user": "0xAshar",
   "alert": true,
   "red": false,
@@ -21,7 +21,7 @@
       "alternatives": [
         {
           "player": "Rico Dowdle (RB, PIT)",
-          "pts": 11.1,
+          "pts": 11.2,
           "flag": ""
         },
         {
@@ -40,7 +40,7 @@
       "alternatives": [
         {
           "player": "Rico Dowdle (RB, PIT)",
-          "pts": 11.1,
+          "pts": 11.2,
           "flag": ""
         },
         {
