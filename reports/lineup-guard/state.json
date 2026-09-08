@@ -2,35 +2,15 @@
   "season": "2026",
   "week": 1,
   "season_type": "regular",
-  "run_at_et": "2026-09-06T18:15-04:00",
+  "run_at_et": "2026-09-07T21:21-04:00",
   "user": "0xAshar",
   "alert": true,
   "red": false,
-  "changed": false,
+  "changed": true,
   "signature": [
-    "FLEX:12490:YELLOW",
-    "RB:12529:YELLOW"
+    "FLEX:12490:YELLOW"
   ],
   "alerts": [
-    {
-      "slot": "RB",
-      "player_id": "12529",
-      "player": "TreVeyon Henderson (RB, NE)",
-      "level": "YELLOW",
-      "reason": "Questionable \u2014 Leg",
-      "alternatives": [
-        {
-          "player": "Rico Dowdle (RB, PIT)",
-          "pts": 11.2,
-          "flag": ""
-        },
-        {
-          "player": "MarShawn Lloyd (RB, GB)",
-          "pts": 9.9,
-          "flag": ""
-        }
-      ]
-    },
     {
       "slot": "FLEX",
       "player_id": "12490",
@@ -38,11 +18,6 @@
       "level": "YELLOW",
       "reason": "Questionable \u2014 Illness",
       "alternatives": [
-        {
-          "player": "Rico Dowdle (RB, PIT)",
-          "pts": 11.2,
-          "flag": ""
-        },
         {
           "player": "Josh Downs (WR, IND)",
           "pts": 10.2,
@@ -52,6 +27,11 @@
           "player": "MarShawn Lloyd (RB, GB)",
           "pts": 9.9,
           "flag": ""
+        },
+        {
+          "player": "TreVeyon Henderson (RB, NE)",
+          "pts": 9.0,
+          "flag": "Questionable \u2014 Leg"
         }
       ]
     }

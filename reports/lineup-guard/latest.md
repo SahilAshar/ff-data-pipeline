@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 1
 
-Run Sun 2026-09-06 06:15 PM ET · season_type=regular · byes this week: none/unknown
+Run Mon 2026-09-07 09:21 PM ET · season_type=regular · byes this week: none/unknown
 
 ## Starters
 
@@ -8,7 +8,7 @@ Run Sun 2026-09-06 06:15 PM ET · season_type=regular · byes this week: none/un
 |---|---|--:|---|---|
 | QB | Josh Allen (QB, BUF) | 23.3 | HOU | 🟢  |
 | RB | Derrick Henry (RB, BAL) | 15.1 | IND | 🟢  |
-| RB | TreVeyon Henderson (RB, NE) | 9.0 | SEA | 🟡 Questionable — Leg |
+| RB | Rico Dowdle (RB, PIT) | 11.2 | ATL | 🟢  |
 | WR | Jaxon Smith-Njigba (WR, SEA) | 16.3 | NE | 🟢  |
 | WR | Tetairoa McMillan (WR, CAR) | 11.8 | CHI | 🟢  |
 | TE | Harold Fannin (TE, CLE) | 9.3 | JAX | 🟢  |
@@ -19,26 +19,18 @@ Run Sun 2026-09-06 06:15 PM ET · season_type=regular · byes this week: none/un
 
 ## ⚠️ Action needed
 
-- **RB: TreVeyon Henderson (RB, NE)** — Questionable — Leg
-    - swap in Rico Dowdle (RB, PIT) — proj 11.2
-    - swap in MarShawn Lloyd (RB, GB) — proj 9.9
 - **FLEX: Bhayshul Tuten (RB, JAX)** — Questionable — Illness
-    - swap in Rico Dowdle (RB, PIT) — proj 11.2
     - swap in Josh Downs (WR, IND) — proj 10.2 (Questionable — Undisclosed)
     - swap in MarShawn Lloyd (RB, GB) — proj 9.9
+    - swap in TreVeyon Henderson (RB, NE) — proj 9.0 (Questionable — Leg)
 
 ## Bench
 
 | Player | Proj | Status |
 |---|--:|---|
-| Rico Dowdle (RB, PIT) | 11.2 | 🟢  |
 | Josh Downs (WR, IND) | 10.2 | 🟡 Questionable — Undisclosed |
 | MarShawn Lloyd (RB, GB) | 9.9 | 🟢  |
-| Khalil Shakir (WR, BUF) | 9.1 | 🟡 Questionable — Undisclosed |
+| TreVeyon Henderson (RB, NE) | 9.0 | 🟡 Questionable — Leg |
 | Dallas Goedert (TE, PHI) | 7.9 | 🟢  |
-| Alec Pierce (WR, IND) (IR slot) | 7.6 | 🟢  |
-
-## Projection swaps (info only, ≥ 2.0 pt edge)
-
-- RB: Rico Dowdle (RB, PIT) (11.2) over TreVeyon Henderson (RB, NE) (9.0) — +2.2
+| Alec Pierce (WR, IND) | 7.6 | 🟢  |
 
