@@ -211,7 +211,6 @@
     "keepers": null,
     "league_id": "1384188162011566080",
     "metadata": {
-      "p_nick_11563": "Checkdown king",
       "p_nick_11638": "Shanahan lies about injuries",
       "p_nick_12506": "What kind of name is Harold",
       "p_nick_12527": "System RB",
@@ -260,7 +259,7 @@
     "starters": [
       "11563",
       "5892",
-      "13286",
+      "6806",
       "7564",
       "10229",
       "11604",
@@ -384,6 +383,7 @@
     "owner_id": "1002103568708534272",
     "player_map": null,
     "players": [
+      "10235",
       "10859",
       "11583",
       "12501",
@@ -421,7 +421,7 @@
       "6794",
       "2133",
       "10859",
-      "5850",
+      "5045",
       "8167",
       "8259",
       "PIT"
