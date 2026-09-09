@@ -2,39 +2,12 @@
   "season": "2026",
   "week": 1,
   "season_type": "regular",
-  "run_at_et": "2026-09-08T01:08-04:00",
+  "run_at_et": "2026-09-09T17:35-04:00",
   "user": "0xAshar",
-  "alert": true,
+  "alert": false,
   "red": false,
-  "changed": false,
-  "signature": [
-    "FLEX:12490:YELLOW"
-  ],
-  "alerts": [
-    {
-      "slot": "FLEX",
-      "player_id": "12490",
-      "player": "Bhayshul Tuten (RB, JAX)",
-      "level": "YELLOW",
-      "reason": "Questionable \u2014 Illness",
-      "alternatives": [
-        {
-          "player": "Josh Downs (WR, IND)",
-          "pts": 10.2,
-          "flag": "Questionable \u2014 Undisclosed"
-        },
-        {
-          "player": "MarShawn Lloyd (RB, GB)",
-          "pts": 9.9,
-          "flag": ""
-        },
-        {
-          "player": "TreVeyon Henderson (RB, NE)",
-          "pts": 9.0,
-          "flag": "Questionable \u2014 Leg"
-        }
-      ]
-    }
-  ],
+  "changed": true,
+  "signature": [],
+  "alerts": [],
   "bye_teams": []
 }
