@@ -4,7 +4,9 @@
   "metadata": {
     "auto_continue": "on",
     "keeper_deadline": "0",
-    "latest_league_winner_roster_id": "8"
+    "latest_cloned_to": "1403634681752150016",
+    "latest_league_winner_roster_id": "8",
+    "num_clones": "1"
   },
   "settings": {
     "best_ball": 0,
@@ -107,24 +109,19 @@
   "season_type": "regular",
   "shard": 279,
   "sport": "nfl",
-  "last_message_id": "1402871010193125376",
+  "last_message_id": "1403531347443609600",
   "last_author_avatar": null,
   "last_author_display_name": "sys",
   "last_author_id": "166666666666666666",
   "last_author_is_bot": true,
   "last_message_attachment": null,
   "last_message_text_map": null,
-  "last_message_time": 1788833022215,
+  "last_message_time": 1788990458884,
   "last_pinned_message_id": null,
-  "last_read_id": null,
   "draft_id": "1384188162015760384",
+  "last_read_id": null,
   "league_id": "1384188162011566080",
   "previous_league_id": "1257088752904310784",
-  "group_id": null,
-  "bracket_id": null,
-  "bracket_overrides_id": null,
-  "loser_bracket_id": null,
-  "loser_bracket_overrides_id": null,
   "roster_positions": [
     "QB",
     "RB",
@@ -142,5 +139,10 @@
     "BN",
     "BN"
   ],
+  "bracket_id": null,
+  "bracket_overrides_id": null,
+  "group_id": null,
+  "loser_bracket_id": null,
+  "loser_bracket_overrides_id": null,
   "total_rosters": 10
 }
