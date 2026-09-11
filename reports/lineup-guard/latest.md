@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 1
 
-Run Thu 2026-09-10 09:23 PM ET · season_type=regular · byes this week: none/unknown
+Run Fri 2026-09-11 01:01 AM ET · season_type=regular · byes this week: none/unknown
 
 ## Starters
 
