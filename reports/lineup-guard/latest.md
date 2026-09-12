@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 1
 
-Run Fri 2026-09-11 01:01 AM ET · season_type=regular · byes this week: none/unknown
+Run Sat 2026-09-12 06:07 PM ET · season_type=regular · byes this week: none/unknown
 
 ## Starters
 
@@ -8,14 +8,14 @@ Run Fri 2026-09-11 01:01 AM ET · season_type=regular · byes this week: none/un
 |---|---|--:|---|---|
 | QB | Josh Allen (QB, BUF) | 18.3 | HOU | 🟢  |
 | RB | Derrick Henry (RB, BAL) | 14.7 | IND | 🟢  |
-| RB | Rico Dowdle (RB, PIT) | 11.1 | ATL | 🟢  |
+| RB | Rico Dowdle (RB, PIT) | 11.4 | ATL | 🟢  |
 | WR | Jaxon Smith-Njigba (WR, SEA) | 16.3 | NE | 🟢  |
 | WR | Tetairoa McMillan (WR, CAR) | 12.6 | CHI | 🟢  |
 | TE | Harold Fannin (TE, CLE) | 8.4 | JAX | 🟢  |
 | FLEX | Bhayshul Tuten (RB, JAX) | 9.7 | CLE | 🟢  |
 | FLEX | DJ Moore (WR, BUF) | 8.9 | HOU | 🟢  |
 | K | Harrison Mevis (K, LAR) | 7.0 | SF | 🟢  |
-| DEF | MIN DEF (DEF, MIN) | 7.3 | GB | 🟢  |
+| DEF | MIN DEF (DEF, MIN) | 7.4 | GB | 🟢  |
 
 ## ✅ All starters available
 
@@ -27,6 +27,6 @@ Run Fri 2026-09-11 01:01 AM ET · season_type=regular · byes this week: none/un
 | Dallas Goedert (TE, PHI) | 8.6 | 🟢  |
 | MarShawn Lloyd (RB, GB) | 8.6 | 🟢  |
 | Woody Marks (RB, HOU) | 8.1 | 🟢  |
-| Alec Pierce (WR, IND) | 7.9 | 🟡 Questionable — Heel |
+| Alec Pierce (WR, IND) | 7.9 | 🟢  |
 | TreVeyon Henderson (RB, NE) (IR slot) | 0.0 | 🔴 Out — Ankle |
 
