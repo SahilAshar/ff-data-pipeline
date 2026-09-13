@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 1
 
-Run Sun 2026-09-13 02:53 PM ET · season_type=regular · byes this week: none/unknown
+Run Sun 2026-09-13 05:34 PM ET · season_type=regular · byes this week: none/unknown
 
 ## Starters
 
@@ -15,7 +15,7 @@ Run Sun 2026-09-13 02:53 PM ET · season_type=regular · byes this week: none/un
 | FLEX | Bhayshul Tuten (RB, JAX) | 9.7 | CLE | 🟢  |
 | FLEX | DJ Moore (WR, BUF) | 8.9 | HOU | 🟢  |
 | K | Harrison Mevis (K, LAR) | 7.0 | SF | 🟢  |
-| DEF | MIN DEF (DEF, MIN) | 7.3 | GB | 🟢  |
+| DEF | MIN DEF (DEF, MIN) | 7.2 | GB | 🟢  |
 
 ## ✅ All starters available
 
