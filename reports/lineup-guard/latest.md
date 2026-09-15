@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 1
 
-Run Sun 2026-09-13 06:33 PM ET · season_type=regular · byes this week: none/unknown
+Run Mon 2026-09-14 09:52 PM ET · season_type=regular · byes this week: none/unknown
 
 ## Starters
 
@@ -27,6 +27,6 @@ Run Sun 2026-09-13 06:33 PM ET · season_type=regular · byes this week: none/un
 | MarShawn Lloyd (RB, GB) | 8.6 | 🟢  |
 | Woody Marks (RB, HOU) | 8.1 | 🟢  |
 | Dallas Goedert (TE, PHI) | 8.1 | 🟢  |
-| Alec Pierce (WR, IND) | 8.0 | 🟢  |
+| Alec Pierce (WR, IND) | 8.0 | 🟡 Questionable — Hand |
 | TreVeyon Henderson (RB, NE) (IR slot) | 0.0 | 🔴 Out — Ankle |
 
