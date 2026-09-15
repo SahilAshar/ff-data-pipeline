@@ -1,12 +1,12 @@
 {
   "season": "2026",
-  "week": 1,
+  "week": 2,
   "season_type": "regular",
-  "run_at_et": "2026-09-14T21:52-04:00",
+  "run_at_et": "2026-09-15T01:14-04:00",
   "user": "0xAshar",
   "alert": false,
   "red": false,
-  "changed": false,
+  "changed": true,
   "signature": [],
   "alerts": [],
   "bye_teams": []

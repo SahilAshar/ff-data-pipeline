@@ -1,21 +1,21 @@
-# Lineup guard — 0xAshar — 2026 week 1
+# Lineup guard — 0xAshar — 2026 week 2
 
-Run Mon 2026-09-14 09:52 PM ET · season_type=regular · byes this week: none/unknown
+Run Tue 2026-09-15 01:14 AM ET · season_type=regular · byes this week: none/unknown
 
 ## Starters
 
 | Slot | Starter | Proj | Opp | Status |
 |---|---|--:|---|---|
-| QB | Josh Allen (QB, BUF) | 19.4 | HOU | 🟢  |
-| RB | Derrick Henry (RB, BAL) | 14.7 | IND | 🟢  |
-| RB | Rico Dowdle (RB, PIT) | 11.3 | ATL | 🟢  |
-| WR | Jaxon Smith-Njigba (WR, SEA) | 16.3 | NE | 🟢  |
-| WR | Tetairoa McMillan (WR, CAR) | 12.6 | CHI | 🟢  |
-| TE | Harold Fannin (TE, CLE) | 8.4 | JAX | 🟢  |
-| FLEX | Bhayshul Tuten (RB, JAX) | 9.7 | CLE | 🟢  |
-| FLEX | DJ Moore (WR, BUF) | 8.9 | HOU | 🟢  |
-| K | Harrison Mevis (K, LAR) | 7.0 | SF | 🟢  |
-| DEF | MIN DEF (DEF, MIN) | 7.2 | GB | 🟢  |
+| QB | Josh Allen (QB, BUF) | 21.9 | DET | 🟢  |
+| RB | Derrick Henry (RB, BAL) | 13.7 | NO | 🟢  |
+| RB | Rico Dowdle (RB, PIT) | 10.0 | NE | 🟢  |
+| WR | Jaxon Smith-Njigba (WR, SEA) | 17.1 | ARI | 🟢  |
+| WR | Tetairoa McMillan (WR, CAR) | 11.9 | ATL | 🟢  |
+| TE | Harold Fannin (TE, CLE) | 8.7 | TB | 🟢  |
+| FLEX | Bhayshul Tuten (RB, JAX) | 8.5 | DEN | 🟢  |
+| FLEX | DJ Moore (WR, BUF) | 10.4 | DET | 🟢  |
+| K | Harrison Mevis (K, LAR) | 7.2 | NYG | 🟢  |
+| DEF | MIN DEF (DEF, MIN) | 6.5 | CHI | 🟢  |
 
 ## ✅ All starters available
 
@@ -23,10 +23,10 @@ Run Mon 2026-09-14 09:52 PM ET · season_type=regular · byes this week: none/un
 
 | Player | Proj | Status |
 |---|--:|---|
-| Josh Downs (WR, IND) | 9.7 | 🟢  |
-| MarShawn Lloyd (RB, GB) | 8.6 | 🟢  |
-| Woody Marks (RB, HOU) | 8.1 | 🟢  |
-| Dallas Goedert (TE, PHI) | 8.1 | 🟢  |
-| Alec Pierce (WR, IND) | 8.0 | 🟡 Questionable — Hand |
-| TreVeyon Henderson (RB, NE) (IR slot) | 0.0 | 🔴 Out — Ankle |
+| MarShawn Lloyd (RB, GB) | 10.2 | 🟢  |
+| Alec Pierce (WR, IND) | 9.4 | 🟡 Questionable — Hand |
+| TreVeyon Henderson (RB, NE) (IR slot) | 9.1 | 🔴 Out — Ankle |
+| Dallas Goedert (TE, PHI) | 8.6 | 🟢  |
+| Josh Downs (WR, IND) | 8.3 | 🟢  |
+| Woody Marks (RB, HOU) | 6.6 | 🟢  |
 
