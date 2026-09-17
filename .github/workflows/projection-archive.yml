@@ -1,0 +1,80 @@
+name: Projection archive
+
+# Immutable pregame capture of every decision-time input (Sleeper projections +
+# player status + rosters + scoring, FantasyPros 127-expert consensus for
+# flex/qb/k/dst, nflverse injury reports and Vegas lines). One directory per run
+# under data/archive/{season}/week{WW}/, never overwritten. Exists so that any
+# future model can be scored against what was actually knowable before kickoff.
+#
+# Runs are placed ahead of each kickoff window with a wide margin because
+# GitHub cron has been observed to lag 2–3 hours on Sundays. The script exits
+# quietly outside the regular/post season, so off-season crons cost nothing.
+# Times below are EDT; in EST they land one hour earlier, which is fine.
+
+on:
+  schedule:
+    - cron: "5 21 * * 4"    # Thu 5:05 PM ET  — before Thursday night kickoff (8:15)
+    - cron: "5 22 * * 6"    # Sat 6:05 PM ET  — final practice reports are in; Sat games late season
+    - cron: "5 12 * * 0"    # Sun 8:05 AM ET  — before the 1:00 PM window even with a 3h lag
+    - cron: "5 19 * * 0"    # Sun 3:05 PM ET  — before the 4:05/4:25 window
+    - cron: "5 23 * * 0"    # Sun 7:05 PM ET  — before Sunday night
+    - cron: "5 21 * * 1"    # Mon 5:05 PM ET  — before Monday night
+    - cron: "5 15 * * 2"    # Tue 11:05 AM ET — post-week baseline, first look at next week's numbers
+  workflow_dispatch:
+    inputs:
+      week:
+        description: "NFL week (blank = current)"
+        required: false
+        default: ""
+      force:
+        description: "Run even outside the regular season"
+        type: boolean
+        default: false
+
+env:
+  TZ: America/New_York
+  SLEEPER_LEAGUE_ID: "1384188162011566080"
+
+concurrency:
+  group: ff-data-pipeline-commits
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+
+      - name: Capture
+        id: capture
+        # Exit 2 = some source failed its floor; still commit what succeeded, then fail the job.
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.week }}" ]; then ARGS="$ARGS --week ${{ github.event.inputs.week }}"; fi
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
+          set +e
+          python scripts/archive_snapshot.py $ARGS
+          echo "rc=$?" >> "$GITHUB_OUTPUT"
+
+      - name: Commit archive
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/archive/
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Archive $(date +%F\ %H:%M) ET"
+          git pull --rebase origin main
+          git push
+
+      - name: Fail if any source missed its floor
+        if: steps.capture.outputs.rc != '0'
+        run: |
+          echo "archive_snapshot.py exited ${{ steps.capture.outputs.rc }} — see manifest.json in the latest run dir"
+          exit 1

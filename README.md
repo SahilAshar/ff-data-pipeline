@@ -51,11 +51,32 @@ the lineup is clean. Quiet outside the regular season.
 python scripts/lineup_guard.py --force --week 7   # dry run for any week
 ```
 
+## Projection archive (in-season)
+
+`scripts/archive_snapshot.py` takes an **immutable pregame capture of every
+decision-time input**: Sleeper/RotoWire projections, per-player status/injury/depth,
+league rosters and scoring, the FantasyPros 127-expert consensus (flex/qb/k/dst with
+`rank_std`/`min`/`max`), nflverse official injury reports, and nflverse game lines
+(kickoff, spread, total). One directory per run under `data/archive/{season}/week{WW}/`,
+never overwritten; a source whose content is unchanged since the last capture that
+week is recorded in `manifest.json` as `unchanged_from` instead of being re-written.
+Every source has a row-count floor and is marked FAILED (file not written) below it —
+missing data is never silently zero. `data/archive/index.jsonl` has one line per run.
+
+The `Projection archive` workflow runs Thu/Sat/Sun(x3)/Mon/Tue ahead of each kickoff
+window with a ~3h margin for Actions cron lag. It exists so a future model can be
+scored against what was actually knowable before kickoff.
+
+```bash
+python scripts/archive_snapshot.py --force --week 7   # dry run for any week
+```
+
 ## Data layout
 
 ```
 data/adp/       # weekly ADP snapshots (YYYY-MM-DD.csv, git-tracked for history)
 data/league/    # Sleeper API pulls (rosters, settings, draft picks; player DB cached, untracked)
+data/archive/   # immutable pregame captures, one dir per run (see Projection archive)
 charts/         # generated PNGs (Twitter-sized 1200x675)
 reports/        # weekly markdown reports
 ```
