@@ -2,15 +2,30 @@
   "season": "2026",
   "week": 2,
   "season_type": "regular",
-  "run_at_et": "2026-09-17T21:24-04:00",
+  "run_at_et": "2026-09-18T01:02-04:00",
   "user": "0xAshar",
   "alert": true,
-  "red": false,
+  "red": true,
   "changed": true,
   "signature": [
-    "FLEX:8142:YELLOW"
+    "FLEX:8142:YELLOW",
+    "WR:4983:RED"
   ],
   "alerts": [
+    {
+      "slot": "WR",
+      "player_id": "4983",
+      "player": "DJ Moore (WR, BUF)",
+      "level": "RED",
+      "reason": "Out \u2014 Shoulder",
+      "alternatives": [
+        {
+          "player": "Josh Downs (WR, IND)",
+          "pts": 8.3,
+          "flag": ""
+        }
+      ]
+    },
     {
       "slot": "FLEX",
       "player_id": "8142",

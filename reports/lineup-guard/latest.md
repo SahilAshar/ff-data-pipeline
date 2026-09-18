@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 2
 
-Run Thu 2026-09-17 09:24 PM ET · season_type=regular · byes this week: none/unknown
+Run Fri 2026-09-18 01:02 AM ET · season_type=regular · byes this week: none/unknown
 
 ## Starters
 
@@ -10,7 +10,7 @@ Run Thu 2026-09-17 09:24 PM ET · season_type=regular · byes this week: none/un
 | RB | Derrick Henry (RB, BAL) | 14.3 | NO | 🟢  |
 | RB | Bhayshul Tuten (RB, JAX) | 8.2 | DEN | 🟢  |
 | WR | Jaxon Smith-Njigba (WR, SEA) | 15.6 | ARI | 🟢  |
-| WR | DJ Moore (WR, BUF) | 10.9 | DET | 🟢  |
+| WR | DJ Moore (WR, BUF) | 10.9 | DET | 🔴 Out — Shoulder |
 | TE | Dallas Goedert (TE, PHI) | 8.3 | TEN | 🟢  |
 | FLEX | Alec Pierce (WR, IND) | 10.0 | KC | 🟡 Questionable — Heel |
 | FLEX | Tetairoa McMillan (WR, CAR) | 12.4 | ATL | 🟢  |
@@ -19,6 +19,8 @@ Run Thu 2026-09-17 09:24 PM ET · season_type=regular · byes this week: none/un
 
 ## ⚠️ Action needed
 
+- **WR: DJ Moore (WR, BUF)** — Out — Shoulder
+    - swap in Josh Downs (WR, IND) — proj 8.3
 - **FLEX: Alec Pierce (WR, IND)** — Questionable — Heel
     - swap in MarShawn Lloyd (RB, GB) — proj 10.6
     - swap in Rico Dowdle (RB, PIT) — proj 9.9
