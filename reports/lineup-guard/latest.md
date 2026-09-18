@@ -1,32 +1,40 @@
 # Lineup guard — 0xAshar — 2026 week 2
 
-Run Tue 2026-09-15 01:14 AM ET · season_type=regular · byes this week: none/unknown
+Run Thu 2026-09-17 09:24 PM ET · season_type=regular · byes this week: none/unknown
 
 ## Starters
 
 | Slot | Starter | Proj | Opp | Status |
 |---|---|--:|---|---|
-| QB | Josh Allen (QB, BUF) | 21.9 | DET | 🟢  |
-| RB | Derrick Henry (RB, BAL) | 13.7 | NO | 🟢  |
-| RB | Rico Dowdle (RB, PIT) | 10.0 | NE | 🟢  |
-| WR | Jaxon Smith-Njigba (WR, SEA) | 17.1 | ARI | 🟢  |
-| WR | Tetairoa McMillan (WR, CAR) | 11.9 | ATL | 🟢  |
-| TE | Harold Fannin (TE, CLE) | 8.7 | TB | 🟢  |
-| FLEX | Bhayshul Tuten (RB, JAX) | 8.5 | DEN | 🟢  |
-| FLEX | DJ Moore (WR, BUF) | 10.4 | DET | 🟢  |
-| K | Harrison Mevis (K, LAR) | 7.2 | NYG | 🟢  |
-| DEF | MIN DEF (DEF, MIN) | 6.5 | CHI | 🟢  |
+| QB | Josh Allen (QB, BUF) | 22.0 | DET | 🟢  |
+| RB | Derrick Henry (RB, BAL) | 14.3 | NO | 🟢  |
+| RB | Bhayshul Tuten (RB, JAX) | 8.2 | DEN | 🟢  |
+| WR | Jaxon Smith-Njigba (WR, SEA) | 15.6 | ARI | 🟢  |
+| WR | DJ Moore (WR, BUF) | 10.9 | DET | 🟢  |
+| TE | Dallas Goedert (TE, PHI) | 8.3 | TEN | 🟢  |
+| FLEX | Alec Pierce (WR, IND) | 10.0 | KC | 🟡 Questionable — Heel |
+| FLEX | Tetairoa McMillan (WR, CAR) | 12.4 | ATL | 🟢  |
+| K | Harrison Mevis (K, LAR) | 7.0 | NYG | 🟢  |
+| DEF | GB DEF (DEF, GB) | 8.6 | NYJ | 🟢  |
 
-## ✅ All starters available
+## ⚠️ Action needed
+
+- **FLEX: Alec Pierce (WR, IND)** — Questionable — Heel
+    - swap in MarShawn Lloyd (RB, GB) — proj 10.6
+    - swap in Rico Dowdle (RB, PIT) — proj 9.9
+    - swap in TreVeyon Henderson (RB, NE) — proj 8.4
 
 ## Bench
 
 | Player | Proj | Status |
 |---|--:|---|
-| MarShawn Lloyd (RB, GB) | 10.2 | 🟢  |
-| Alec Pierce (WR, IND) | 9.4 | 🟡 Questionable — Hand |
-| TreVeyon Henderson (RB, NE) (IR slot) | 9.1 | 🔴 Out — Ankle |
-| Dallas Goedert (TE, PHI) | 8.6 | 🟢  |
+| MarShawn Lloyd (RB, GB) | 10.6 | 🟢  |
+| Rico Dowdle (RB, PIT) | 9.9 | 🟢  |
+| TreVeyon Henderson (RB, NE) | 8.4 | 🟢  |
 | Josh Downs (WR, IND) | 8.3 | 🟢  |
-| Woody Marks (RB, HOU) | 6.6 | 🟢  |
+| Harold Fannin (TE, CLE) | 7.9 | 🟢  |
+
+## Projection swaps (info only, ≥ 2.0 pt edge)
+
+- RB: MarShawn Lloyd (RB, GB) (10.6) over Bhayshul Tuten (RB, JAX) (8.2) — +2.4
 

@@ -2,12 +2,39 @@
   "season": "2026",
   "week": 2,
   "season_type": "regular",
-  "run_at_et": "2026-09-15T01:14-04:00",
+  "run_at_et": "2026-09-17T21:24-04:00",
   "user": "0xAshar",
-  "alert": false,
+  "alert": true,
   "red": false,
   "changed": true,
-  "signature": [],
-  "alerts": [],
+  "signature": [
+    "FLEX:8142:YELLOW"
+  ],
+  "alerts": [
+    {
+      "slot": "FLEX",
+      "player_id": "8142",
+      "player": "Alec Pierce (WR, IND)",
+      "level": "YELLOW",
+      "reason": "Questionable \u2014 Heel",
+      "alternatives": [
+        {
+          "player": "MarShawn Lloyd (RB, GB)",
+          "pts": 10.6,
+          "flag": ""
+        },
+        {
+          "player": "Rico Dowdle (RB, PIT)",
+          "pts": 9.9,
+          "flag": ""
+        },
+        {
+          "player": "TreVeyon Henderson (RB, NE)",
+          "pts": 8.4,
+          "flag": ""
+        }
+      ]
+    }
+  ],
   "bye_teams": []
 }
