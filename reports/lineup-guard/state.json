@@ -2,12 +2,13 @@
   "season": "2026",
   "week": 2,
   "season_type": "regular",
-  "run_at_et": "2026-09-20T14:06-04:00",
+  "run_at_et": "2026-09-20T14:17-04:00",
   "user": "0xAshar",
   "alert": true,
   "red": true,
-  "changed": false,
+  "changed": true,
   "signature": [
+    "TE:5022:YELLOW",
     "WR:4983:RED"
   ],
   "alerts": [
@@ -21,6 +22,20 @@
         {
           "player": "Josh Downs (WR, IND)",
           "pts": 8.4,
+          "flag": ""
+        }
+      ]
+    },
+    {
+      "slot": "TE",
+      "player_id": "5022",
+      "player": "Dallas Goedert (TE, PHI)",
+      "level": "YELLOW",
+      "reason": "Questionable \u2014 Knee",
+      "alternatives": [
+        {
+          "player": "Harold Fannin (TE, CLE)",
+          "pts": 7.9,
           "flag": ""
         }
       ]
