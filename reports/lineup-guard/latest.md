@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 2
 
-Run Sun 2026-09-20 02:57 PM ET · season_type=regular · byes this week: none/unknown
+Run Sun 2026-09-20 05:44 PM ET · season_type=regular · byes this week: none/unknown
 
 ## Starters
 
@@ -9,7 +9,7 @@ Run Sun 2026-09-20 02:57 PM ET · season_type=regular · byes this week: none/un
 | QB | Josh Allen (QB, BUF) | 22.0 | DET | 🟢  |
 | RB | Derrick Henry (RB, BAL) | 14.5 | NO | 🟢  |
 | RB | Bhayshul Tuten (RB, JAX) | 8.2 | DEN | 🟢  |
-| WR | Jaxon Smith-Njigba (WR, SEA) | 15.6 | ARI | 🟢  |
+| WR | Jaxon Smith-Njigba (WR, SEA) | 16.2 | ARI | 🟢  |
 | WR | DJ Moore (WR, BUF) | 10.9 | DET | 🔴 Out — Shoulder |
 | TE | Dallas Goedert (TE, PHI) | 8.3 | TEN | 🟡 Questionable — Knee |
 | FLEX | Alec Pierce (WR, IND) | 10.0 | KC | 🟢  |
@@ -29,7 +29,7 @@ Run Sun 2026-09-20 02:57 PM ET · season_type=regular · byes this week: none/un
 | Player | Proj | Status |
 |---|--:|---|
 | MarShawn Lloyd (RB, GB) | 10.8 | 🟢  |
-| Rico Dowdle (RB, PIT) | 9.8 | 🟡 Questionable — Undisclosed |
+| Rico Dowdle (RB, PIT) | 9.8 | 🔴 Out — Toe |
 | TreVeyon Henderson (RB, NE) | 8.4 | 🟢  |
 | Josh Downs (WR, IND) | 8.4 | 🟢  |
 | Harold Fannin (TE, CLE) | 7.9 | 🟢  |
