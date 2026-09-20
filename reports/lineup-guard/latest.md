@@ -1,13 +1,13 @@
 # Lineup guard — 0xAshar — 2026 week 2
 
-Run Sat 2026-09-19 06:16 PM ET · season_type=regular · byes this week: none/unknown
+Run Sun 2026-09-20 02:06 PM ET · season_type=regular · byes this week: none/unknown
 
 ## Starters
 
 | Slot | Starter | Proj | Opp | Status |
 |---|---|--:|---|---|
 | QB | Josh Allen (QB, BUF) | 22.0 | DET | 🟢  |
-| RB | Derrick Henry (RB, BAL) | 14.4 | NO | 🟢  |
+| RB | Derrick Henry (RB, BAL) | 14.5 | NO | 🟢  |
 | RB | Bhayshul Tuten (RB, JAX) | 8.2 | DEN | 🟢  |
 | WR | Jaxon Smith-Njigba (WR, SEA) | 15.6 | ARI | 🟢  |
 | WR | DJ Moore (WR, BUF) | 10.9 | DET | 🔴 Out — Shoulder |
@@ -26,13 +26,13 @@ Run Sat 2026-09-19 06:16 PM ET · season_type=regular · byes this week: none/un
 
 | Player | Proj | Status |
 |---|--:|---|
-| MarShawn Lloyd (RB, GB) | 10.7 | 🟢  |
-| Rico Dowdle (RB, PIT) | 9.9 | 🟢  |
+| MarShawn Lloyd (RB, GB) | 10.8 | 🟢  |
+| Rico Dowdle (RB, PIT) | 9.8 | 🟢  |
 | TreVeyon Henderson (RB, NE) | 8.4 | 🟢  |
 | Josh Downs (WR, IND) | 8.4 | 🟢  |
 | Harold Fannin (TE, CLE) | 7.9 | 🟢  |
 
 ## Projection swaps (info only, ≥ 2.0 pt edge)
 
-- RB: MarShawn Lloyd (RB, GB) (10.7) over Bhayshul Tuten (RB, JAX) (8.2) — +2.4
+- RB: MarShawn Lloyd (RB, GB) (10.8) over Bhayshul Tuten (RB, JAX) (8.2) — +2.6
 
