@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 2
 
-Run Sun 2026-09-20 06:39 PM ET · season_type=regular · byes this week: none/unknown
+Run Mon 2026-09-21 09:48 PM ET · season_type=regular · byes this week: none/unknown
 
 ## Starters
 
@@ -12,9 +12,9 @@ Run Sun 2026-09-20 06:39 PM ET · season_type=regular · byes this week: none/un
 | WR | Jaxon Smith-Njigba (WR, SEA) | 16.2 | ARI | 🟢  |
 | WR | DJ Moore (WR, BUF) | 10.9 | DET | 🔴 Out — Shoulder |
 | TE | Dallas Goedert (TE, PHI) | 8.3 | TEN | 🟡 Questionable — Knee |
-| FLEX | Alec Pierce (WR, IND) | 10.0 | KC | 🟢  |
+| FLEX | Alec Pierce (WR, IND) | 10.0 | KC | 🔴 Out — Heel |
 | FLEX | Tetairoa McMillan (WR, CAR) | 12.4 | ATL | 🟢  |
-| K | Harrison Mevis (K, LAR) | 7.0 | NYG | 🟢  |
+| K | Harrison Mevis (K, LAR) | 8.6 | NYG | 🟢  |
 | DEF | GB DEF (DEF, GB) | 8.5 | NYJ | 🟢  |
 
 ## ⚠️ Action needed
@@ -23,6 +23,10 @@ Run Sun 2026-09-20 06:39 PM ET · season_type=regular · byes this week: none/un
     - swap in Josh Downs (WR, IND) — proj 8.4
 - **TE: Dallas Goedert (TE, PHI)** — Questionable — Knee
     - swap in Harold Fannin (TE, CLE) — proj 7.9
+- **FLEX: Alec Pierce (WR, IND)** — Out — Heel
+    - swap in MarShawn Lloyd (RB, GB) — proj 10.8
+    - swap in TreVeyon Henderson (RB, NE) — proj 8.4
+    - swap in Josh Downs (WR, IND) — proj 8.4
 
 ## Bench
 

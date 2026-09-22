@@ -2,12 +2,13 @@
   "season": "2026",
   "week": 2,
   "season_type": "regular",
-  "run_at_et": "2026-09-20T18:39-04:00",
+  "run_at_et": "2026-09-21T21:48-04:00",
   "user": "0xAshar",
   "alert": true,
   "red": true,
-  "changed": false,
+  "changed": true,
   "signature": [
+    "FLEX:8142:RED",
     "TE:5022:YELLOW",
     "WR:4983:RED"
   ],
@@ -36,6 +37,30 @@
         {
           "player": "Harold Fannin (TE, CLE)",
           "pts": 7.9,
+          "flag": ""
+        }
+      ]
+    },
+    {
+      "slot": "FLEX",
+      "player_id": "8142",
+      "player": "Alec Pierce (WR, IND)",
+      "level": "RED",
+      "reason": "Out \u2014 Heel",
+      "alternatives": [
+        {
+          "player": "MarShawn Lloyd (RB, GB)",
+          "pts": 10.8,
+          "flag": ""
+        },
+        {
+          "player": "TreVeyon Henderson (RB, NE)",
+          "pts": 8.4,
+          "flag": ""
+        },
+        {
+          "player": "Josh Downs (WR, IND)",
+          "pts": 8.4,
           "flag": ""
         }
       ]
