@@ -1,44 +1,45 @@
-# Lineup guard — 0xAshar — 2026 week 2
+# Lineup guard — 0xAshar — 2026 week 3
 
-Run Mon 2026-09-21 09:48 PM ET · season_type=regular · byes this week: none/unknown
+Run Tue 2026-09-22 01:19 AM ET · season_type=regular · byes this week: none/unknown
 
 ## Starters
 
 | Slot | Starter | Proj | Opp | Status |
 |---|---|--:|---|---|
-| QB | Josh Allen (QB, BUF) | 22.0 | DET | 🟢  |
-| RB | Derrick Henry (RB, BAL) | 14.5 | NO | 🟢  |
-| RB | Bhayshul Tuten (RB, JAX) | 8.2 | DEN | 🟢  |
-| WR | Jaxon Smith-Njigba (WR, SEA) | 16.2 | ARI | 🟢  |
-| WR | DJ Moore (WR, BUF) | 10.9 | DET | 🔴 Out — Shoulder |
-| TE | Dallas Goedert (TE, PHI) | 8.3 | TEN | 🟡 Questionable — Knee |
-| FLEX | Alec Pierce (WR, IND) | 10.0 | KC | 🔴 Out — Heel |
-| FLEX | Tetairoa McMillan (WR, CAR) | 12.4 | ATL | 🟢  |
-| K | Harrison Mevis (K, LAR) | 8.6 | NYG | 🟢  |
-| DEF | GB DEF (DEF, GB) | 8.5 | NYJ | 🟢  |
+| QB | Josh Allen (QB, BUF) | 21.9 | LAC | 🟢  |
+| RB | Derrick Henry (RB, BAL) | 18.6 | DAL | 🟢  |
+| RB | Bhayshul Tuten (RB, JAX) | 10.9 | NE | 🟢  |
+| WR | Jaxon Smith-Njigba (WR, SEA) | 19.1 | WAS | 🟢  |
+| WR | DJ Moore (WR, BUF) | 9.8 | LAC | 🔴 Out — Shoulder |
+| TE | Dallas Goedert (TE, PHI) | 0.0 | — | 🟡 Questionable — Knee |
+| FLEX | Alec Pierce (WR, IND) | 4.7 | HOU | 🔴 Out — Heel |
+| FLEX | Tetairoa McMillan (WR, CAR) | 12.2 | CLE | 🟢  |
+| K | Harrison Mevis (K, LAR) | 8.2 | DEN | 🟢  |
+| DEF | GB DEF (DEF, GB) | 9.1 | ATL | 🟢  |
 
 ## ⚠️ Action needed
 
 - **WR: DJ Moore (WR, BUF)** — Out — Shoulder
-    - swap in Josh Downs (WR, IND) — proj 8.4
+    - swap in Josh Downs (WR, IND) — proj 9.1
 - **TE: Dallas Goedert (TE, PHI)** — Questionable — Knee
-    - swap in Harold Fannin (TE, CLE) — proj 7.9
+    - swap in Harold Fannin (TE, CLE) — proj 7.2
 - **FLEX: Alec Pierce (WR, IND)** — Out — Heel
-    - swap in MarShawn Lloyd (RB, GB) — proj 10.8
-    - swap in TreVeyon Henderson (RB, NE) — proj 8.4
-    - swap in Josh Downs (WR, IND) — proj 8.4
+    - swap in TreVeyon Henderson (RB, NE) — proj 12.4
+    - swap in Josh Downs (WR, IND) — proj 9.1
+    - swap in MarShawn Lloyd (RB, GB) — proj 8.9
 
 ## Bench
 
 | Player | Proj | Status |
 |---|--:|---|
-| MarShawn Lloyd (RB, GB) | 10.8 | 🟢  |
-| Rico Dowdle (RB, PIT) | 9.8 | 🔴 Out — Toe |
-| TreVeyon Henderson (RB, NE) | 8.4 | 🟢  |
-| Josh Downs (WR, IND) | 8.4 | 🟢  |
-| Harold Fannin (TE, CLE) | 7.9 | 🟢  |
+| TreVeyon Henderson (RB, NE) | 12.4 | 🟢  |
+| Rico Dowdle (RB, PIT) | 11.2 | 🔴 Out — Toe |
+| Josh Downs (WR, IND) | 9.1 | 🟢  |
+| MarShawn Lloyd (RB, GB) | 8.9 | 🟢  |
+| Harold Fannin (TE, CLE) | 7.2 | 🟢  |
 
 ## Projection swaps (info only, ≥ 2.0 pt edge)
 
-- RB: MarShawn Lloyd (RB, GB) (10.8) over Bhayshul Tuten (RB, JAX) (8.2) — +2.6
+- FLEX: TreVeyon Henderson (RB, NE) (12.4) over Alec Pierce (WR, IND) (4.7) — +7.7
+- TE: Harold Fannin (TE, CLE) (7.2) over Dallas Goedert (TE, PHI) (0.0) — +7.2
 

@@ -1,8 +1,8 @@
 {
   "season": "2026",
-  "week": 2,
+  "week": 3,
   "season_type": "regular",
-  "run_at_et": "2026-09-21T21:48-04:00",
+  "run_at_et": "2026-09-22T01:19-04:00",
   "user": "0xAshar",
   "alert": true,
   "red": true,
@@ -22,7 +22,7 @@
       "alternatives": [
         {
           "player": "Josh Downs (WR, IND)",
-          "pts": 8.4,
+          "pts": 9.1,
           "flag": ""
         }
       ]
@@ -36,7 +36,7 @@
       "alternatives": [
         {
           "player": "Harold Fannin (TE, CLE)",
-          "pts": 7.9,
+          "pts": 7.2,
           "flag": ""
         }
       ]
@@ -49,18 +49,18 @@
       "reason": "Out \u2014 Heel",
       "alternatives": [
         {
-          "player": "MarShawn Lloyd (RB, GB)",
-          "pts": 10.8,
-          "flag": ""
-        },
-        {
           "player": "TreVeyon Henderson (RB, NE)",
-          "pts": 8.4,
+          "pts": 12.4,
           "flag": ""
         },
         {
           "player": "Josh Downs (WR, IND)",
-          "pts": 8.4,
+          "pts": 9.1,
+          "flag": ""
+        },
+        {
+          "player": "MarShawn Lloyd (RB, GB)",
+          "pts": 8.9,
           "flag": ""
         }
       ]
