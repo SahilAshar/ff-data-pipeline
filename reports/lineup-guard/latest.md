@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 3
 
-Run Thu 2026-09-24 09:49 PM ET · season_type=regular · byes this week: none/unknown
+Run Fri 2026-09-25 01:14 AM ET · season_type=regular · byes this week: none/unknown
 
 ## Starters
 
@@ -9,7 +9,7 @@ Run Thu 2026-09-24 09:49 PM ET · season_type=regular · byes this week: none/un
 | QB | Josh Allen (QB, BUF) | 23.4 | LAC | 🟢  |
 | RB | Derrick Henry (RB, BAL) | 17.9 | DAL | 🟢  |
 | RB | Bhayshul Tuten (RB, JAX) | 10.4 | NE | 🟢  |
-| WR | Jaxon Smith-Njigba (WR, SEA) | 18.4 | WAS | 🟢  |
+| WR | Jaxon Smith-Njigba (WR, SEA) | 18.8 | WAS | 🟢  |
 | WR | Josh Downs (WR, IND) | 9.0 | HOU | 🟢  |
 | TE | Harold Fannin (TE, CLE) | 7.4 | CAR | 🟢  |
 | FLEX | TreVeyon Henderson (RB, NE) | 11.5 | JAX | 🟢  |
