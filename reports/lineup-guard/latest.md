@@ -1,12 +1,12 @@
 # Lineup guard — 0xAshar — 2026 week 3
 
-Run Sun 2026-09-27 07:19 PM ET · season_type=regular · byes this week: none/unknown
+Run Mon 2026-09-28 10:42 PM ET · season_type=regular · byes this week: none/unknown
 
 ## Starters
 
 | Slot | Starter | Proj | Opp | Status |
 |---|---|--:|---|---|
-| QB | Josh Allen (QB, BUF) | 23.7 | LAC | 🟢  |
+| QB | Josh Allen (QB, BUF) | 23.7 | LAC | 🟡 Questionable — Knee |
 | RB | Derrick Henry (RB, BAL) | 18.2 | DAL | 🟢  |
 | RB | Bhayshul Tuten (RB, JAX) | 10.5 | NE | 🟢  |
 | WR | Jaxon Smith-Njigba (WR, SEA) | 18.6 | WAS | 🟢  |
@@ -14,10 +14,13 @@ Run Sun 2026-09-27 07:19 PM ET · season_type=regular · byes this week: none/un
 | TE | Harold Fannin (TE, CLE) | 7.5 | CAR | 🟢  |
 | FLEX | TreVeyon Henderson (RB, NE) | 11.6 | JAX | 🟢  |
 | FLEX | Tetairoa McMillan (WR, CAR) | 11.9 | CLE | 🟢  |
-| K | Harrison Mevis (K, LAR) | 8.0 | DEN | 🟢  |
+| K | Harrison Mevis (K, LAR) | 7.9 | DEN | 🟢  |
 | DEF | GB DEF (DEF, GB) | 8.8 | ATL | 🟢  |
 
-## ✅ All starters available
+## ⚠️ Action needed
+
+- **QB: Josh Allen (QB, BUF)** — Questionable — Knee
+    - no eligible bench replacement — pick up a free agent
 
 ## Bench
 
