@@ -2,23 +2,12 @@
   "season": "2026",
   "week": 4,
   "season_type": "regular",
-  "run_at_et": "2026-09-29T02:06-04:00",
+  "run_at_et": "2026-10-01T22:31-04:00",
   "user": "0xAshar",
-  "alert": true,
+  "alert": false,
   "red": false,
   "changed": true,
-  "signature": [
-    "QB:4984:YELLOW"
-  ],
-  "alerts": [
-    {
-      "slot": "QB",
-      "player_id": "4984",
-      "player": "Josh Allen (QB, BUF)",
-      "level": "YELLOW",
-      "reason": "Questionable \u2014 Knee",
-      "alternatives": []
-    }
-  ],
+  "signature": [],
+  "alerts": [],
   "bye_teams": []
 }
