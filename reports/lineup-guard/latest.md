@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 4
 
-Run Sun 2026-10-04 03:45 PM ET · season_type=regular · byes this week: none/unknown
+Run Sun 2026-10-04 06:25 PM ET · season_type=regular · byes this week: none/unknown
 
 ## Starters
 
@@ -13,7 +13,7 @@ Run Sun 2026-10-04 03:45 PM ET · season_type=regular · byes this week: none/un
 | WR | Josh Downs (WR, IND) | 11.6 | WAS | 🟢  |
 | TE | Harold Fannin (TE, CLE) | 9.5 | PIT | 🟢  |
 | FLEX | Braelon Allen (RB, NYJ) | 12.0 | CHI | 🟢  |
-| FLEX | Tetairoa McMillan (WR, CAR) | 13.2 | DET | 🟢  |
+| FLEX | Tetairoa McMillan (WR, CAR) | 13.3 | DET | 🟢  |
 | K | Harrison Mevis (K, LAR) | 7.7 | PHI | 🟢  |
 | DEF | CHI DEF (DEF, CHI) | 8.5 | NYJ | 🟢  |
 
@@ -23,7 +23,7 @@ Run Sun 2026-10-04 03:45 PM ET · season_type=regular · byes this week: none/un
 
 | Player | Proj | Status |
 |---|--:|---|
-| Kirk Cousins (QB, LV) | 15.0 | 🟢  |
+| Kirk Cousins (QB, LV) | 14.7 | 🟢  |
 | DJ Moore (WR, BUF) | 11.8 | 🟡 Questionable — Undisclosed |
 | TreVeyon Henderson (RB, NE) | 8.9 | 🟢  |
 | Alvin Kamara (RB, NO) | 8.7 | 🟢  |
