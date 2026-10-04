@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 4
 
-Run Sun 2026-10-04 03:29 PM ET · season_type=regular · byes this week: none/unknown
+Run Sun 2026-10-04 03:45 PM ET · season_type=regular · byes this week: none/unknown
 
 ## Starters
 
