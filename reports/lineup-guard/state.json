@@ -1,13 +1,43 @@
 {
   "season": "2026",
-  "week": 4,
+  "week": 5,
   "season_type": "regular",
-  "run_at_et": "2026-10-05T23:18-04:00",
+  "run_at_et": "2026-10-06T02:48-04:00",
   "user": "0xAshar",
-  "alert": false,
-  "red": false,
-  "changed": false,
-  "signature": [],
-  "alerts": [],
-  "bye_teams": []
+  "alert": true,
+  "red": true,
+  "changed": true,
+  "signature": [
+    "FLEX:12526:RED"
+  ],
+  "alerts": [
+    {
+      "slot": "FLEX",
+      "player_id": "12526",
+      "player": "Tetairoa McMillan (WR, CAR)",
+      "level": "RED",
+      "reason": "BYE (week 5)",
+      "alternatives": [
+        {
+          "player": "TreVeyon Henderson (RB, NE)",
+          "pts": 9.7,
+          "flag": ""
+        },
+        {
+          "player": "DJ Moore (WR, BUF)",
+          "pts": 8.2,
+          "flag": "Questionable \u2014 Undisclosed"
+        },
+        {
+          "player": "Alvin Kamara (RB, NO)",
+          "pts": 8.0,
+          "flag": "Questionable \u2014 Knee"
+        }
+      ]
+    }
+  ],
+  "bye_teams": [
+    "CAR",
+    "KC"
+  ]
 }
