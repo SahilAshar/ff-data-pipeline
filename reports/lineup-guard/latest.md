@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 4
 
-Run Sun 2026-10-04 07:30 PM ET · season_type=regular · byes this week: none/unknown
+Run Mon 2026-10-05 11:18 PM ET · season_type=regular · byes this week: none/unknown
 
 ## Starters
 
@@ -26,7 +26,7 @@ Run Sun 2026-10-04 07:30 PM ET · season_type=regular · byes this week: none/un
 | Kirk Cousins (QB, LV) | 14.7 | 🟢  |
 | DJ Moore (WR, BUF) | 11.8 | 🟡 Questionable — Undisclosed |
 | TreVeyon Henderson (RB, NE) | 8.9 | 🟢  |
-| Alvin Kamara (RB, NO) | 8.7 | 🟢  |
+| Alvin Kamara (RB, NO) | 8.5 | 🟡 Questionable — Knee |
 | Adonai Mitchell (WR, NYJ) | 0.0 | 🔴 Out — Finger |
 | Alec Pierce (WR, IND) (IR slot) | 0.0 | 🔴 IR — Heel |
 
