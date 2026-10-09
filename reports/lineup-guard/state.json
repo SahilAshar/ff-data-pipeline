@@ -2,11 +2,11 @@
   "season": "2026",
   "week": 5,
   "season_type": "regular",
-  "run_at_et": "2026-10-06T02:48-04:00",
+  "run_at_et": "2026-10-08T23:02-04:00",
   "user": "0xAshar",
   "alert": true,
   "red": true,
-  "changed": true,
+  "changed": false,
   "signature": [
     "FLEX:12526:RED"
   ],
@@ -20,18 +20,18 @@
       "alternatives": [
         {
           "player": "TreVeyon Henderson (RB, NE)",
-          "pts": 9.7,
+          "pts": 10.1,
           "flag": ""
+        },
+        {
+          "player": "Alvin Kamara (RB, NO)",
+          "pts": 9.7,
+          "flag": "Questionable \u2014 Back"
         },
         {
           "player": "DJ Moore (WR, BUF)",
           "pts": 8.2,
           "flag": "Questionable \u2014 Undisclosed"
-        },
-        {
-          "player": "Alvin Kamara (RB, NO)",
-          "pts": 8.0,
-          "flag": "Questionable \u2014 Knee"
         }
       ]
     }
