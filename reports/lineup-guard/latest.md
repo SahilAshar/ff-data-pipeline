@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 5
 
-Run Thu 2026-10-08 11:02 PM ET · season_type=regular · byes this week: CAR, KC
+Run Fri 2026-10-09 02:32 AM ET · season_type=regular · byes this week: CAR, KC
 
 ## Starters
 
