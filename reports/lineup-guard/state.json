@@ -2,13 +2,40 @@
   "season": "2026",
   "week": 5,
   "season_type": "regular",
-  "run_at_et": "2026-10-10T19:23-04:00",
+  "run_at_et": "2026-10-11T15:24-04:00",
   "user": "0xAshar",
-  "alert": false,
-  "red": false,
+  "alert": true,
+  "red": true,
   "changed": true,
-  "signature": [],
-  "alerts": [],
+  "signature": [
+    "FLEX:12529:RED"
+  ],
+  "alerts": [
+    {
+      "slot": "FLEX",
+      "player_id": "12529",
+      "player": "TreVeyon Henderson (RB, NE)",
+      "level": "RED",
+      "reason": "Out \u2014 Ankle",
+      "alternatives": [
+        {
+          "player": "Alvin Kamara (RB, NO)",
+          "pts": 9.7,
+          "flag": ""
+        },
+        {
+          "player": "DJ Moore (WR, BUF)",
+          "pts": 9.7,
+          "flag": "Questionable \u2014 Undisclosed"
+        },
+        {
+          "player": "Dohnte Meyers (WR, CIN)",
+          "pts": 3.7,
+          "flag": ""
+        }
+      ]
+    }
+  ],
   "bye_teams": [
     "CAR",
     "KC"
