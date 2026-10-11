@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 5
 
-Run Sun 2026-10-11 03:41 PM ET · season_type=regular · byes this week: CAR, KC
+Run Sun 2026-10-11 04:09 PM ET · season_type=regular · byes this week: CAR, KC
 
 ## Starters
 
@@ -9,7 +9,7 @@ Run Sun 2026-10-11 03:41 PM ET · season_type=regular · byes this week: CAR, KC
 | QB | Josh Allen (QB, BUF) | 21.9 | LAR | 🟢  |
 | RB | Derrick Henry (RB, BAL) | 17.1 | ATL | 🟢  |
 | RB | Bhayshul Tuten (RB, JAX) | 11.9 | PHI | 🟢  |
-| WR | Jaxon Smith-Njigba (WR, SEA) | 19.6 | SF | 🟢  |
+| WR | Jaxon Smith-Njigba (WR, SEA) | 19.8 | SF | 🟢  |
 | WR | Josh Downs (WR, IND) | 8.4 | PIT | 🟢  |
 | TE | Harold Fannin (TE, CLE) | 8.8 | NYJ | 🟢  |
 | FLEX | Braelon Allen (RB, NYJ) | 14.1 | CLE | 🟢  |
