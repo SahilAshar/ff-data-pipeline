@@ -1,39 +1,46 @@
-# Lineup guard — 0xAshar — 2026 week 5
+# Lineup guard — 0xAshar — 2026 week 6
 
-Run Mon 2026-10-12 11:48 PM ET · season_type=regular · byes this week: CAR, KC
+Run Tue 2026-10-13 03:02 AM ET · season_type=regular · byes this week: CIN, DET, MIA, MIN
 
 ## Starters
 
 | Slot | Starter | Proj | Opp | Status |
 |---|---|--:|---|---|
-| QB | Josh Allen (QB, BUF) | 21.8 | LAR | 🟢  |
-| RB | Derrick Henry (RB, BAL) | 17.3 | ATL | 🟢  |
-| RB | Bhayshul Tuten (RB, JAX) | 11.9 | PHI | 🟢  |
-| WR | Jaxon Smith-Njigba (WR, SEA) | 19.8 | SF | 🟡 Questionable — Ankle |
-| WR | Josh Downs (WR, IND) | 8.4 | PIT | 🟢  |
-| TE | Harold Fannin (TE, CLE) | 8.8 | NYJ | 🟢  |
-| FLEX | Braelon Allen (RB, NYJ) | 14.1 | CLE | 🟢  |
-| FLEX | TreVeyon Henderson (RB, NE) | 10.2 | LV | 🔴 Out — Ankle |
-| K | Harrison Mevis (K, LAR) | 8.0 | BUF | 🟢  |
-| DEF | MIN DEF (DEF, MIN) | 7.9 | NO | 🟢  |
+| QB | Josh Allen (QB, BUF) | 24.8 | LV | 🟢  |
+| RB | Derrick Henry (RB, BAL) | 15.6 | CLE | 🟢  |
+| RB | Bhayshul Tuten (RB, JAX) | 10.9 | HOU | 🟢  |
+| WR | Jaxon Smith-Njigba (WR, SEA) | 18.7 | DEN | 🟡 Questionable — Ankle |
+| WR | Josh Downs (WR, IND) | 9.9 | TEN | 🟢  |
+| TE | Harold Fannin (TE, CLE) | 8.5 | BAL | 🟢  |
+| FLEX | Braelon Allen (RB, NYJ) | 6.3 | NE | 🟢  |
+| FLEX | TreVeyon Henderson (RB, NE) | 6.0 | NYJ | 🔴 Out — Ankle |
+| K | Harrison Mevis (K, LAR) | 8.7 | ARI | 🟢  |
+| DEF | MIN DEF (DEF, MIN) | 0.0 | — | 🔴 BYE (week 6) |
 
 ## ⚠️ Action needed
 
 - **WR: Jaxon Smith-Njigba (WR, SEA)** — Questionable — Ankle
-    - swap in Dohnte Meyers (WR, CIN) — proj 3.7
+    - swap in Tetairoa McMillan (WR, CAR) — proj 11.2
 - **FLEX: TreVeyon Henderson (RB, NE)** — Out — Ankle
-    - swap in Alvin Kamara (RB, NO) — proj 9.7
-    - swap in Dohnte Meyers (WR, CIN) — proj 3.7
+    - swap in Tetairoa McMillan (WR, CAR) — proj 11.2
+    - swap in Alvin Kamara (RB, NO) — proj 8.7
+- **DEF: MIN DEF (DEF, MIN)** — BYE (week 6)
+    - no eligible bench replacement — pick up a free agent
 
 ## Bench
 
 | Player | Proj | Status |
 |---|--:|---|
-| Kirk Cousins (QB, LV) | 14.8 | 🟢  |
-| Alvin Kamara (RB, NO) | 9.7 | 🟢  |
-| Dohnte Meyers (WR, CIN) | 3.7 | 🟢  |
-| Adonai Mitchell (WR, NYJ) (IR slot) | 0.0 | 🔴 Out — Finger |
-| Tetairoa McMillan (WR, CAR) | 0.0 | 🔴 BYE (week 5) |
-| DJ Moore (WR, BUF) | 0.0 | 🔴 Out — Shoulder - AC Joint |
+| Kirk Cousins (QB, LV) | 17.3 | 🟢  |
+| DJ Moore (WR, BUF) | 12.4 | 🔴 Out — Shoulder - AC Joint |
+| Tetairoa McMillan (WR, CAR) | 11.2 | 🟢  |
+| Alvin Kamara (RB, NO) | 8.7 | 🟢  |
+| Adonai Mitchell (WR, NYJ) (IR slot) | 5.3 | 🔴 Out — Finger |
+| Dohnte Meyers (WR, CIN) | 0.0 | 🔴 BYE (week 6) |
 | Alec Pierce (WR, IND) (IR slot) | 0.0 | 🔴 IR — Heel |
+
+## Projection swaps (info only, ≥ 2.0 pt edge)
+
+- FLEX: Tetairoa McMillan (WR, CAR) (11.2) over TreVeyon Henderson (RB, NE) (6.0) — +5.2
+- FLEX: Tetairoa McMillan (WR, CAR) (11.2) over Braelon Allen (RB, NYJ) (6.3) — +4.9
 

@@ -1,13 +1,14 @@
 {
   "season": "2026",
-  "week": 5,
+  "week": 6,
   "season_type": "regular",
-  "run_at_et": "2026-10-12T23:48-04:00",
+  "run_at_et": "2026-10-13T03:02-04:00",
   "user": "0xAshar",
   "alert": true,
   "red": true,
   "changed": true,
   "signature": [
+    "DEF:MIN:RED",
     "FLEX:12529:RED",
     "WR:9488:YELLOW"
   ],
@@ -20,8 +21,8 @@
       "reason": "Questionable \u2014 Ankle",
       "alternatives": [
         {
-          "player": "Dohnte Meyers (WR, CIN)",
-          "pts": 3.7,
+          "player": "Tetairoa McMillan (WR, CAR)",
+          "pts": 11.2,
           "flag": ""
         }
       ]
@@ -34,20 +35,30 @@
       "reason": "Out \u2014 Ankle",
       "alternatives": [
         {
-          "player": "Alvin Kamara (RB, NO)",
-          "pts": 9.7,
+          "player": "Tetairoa McMillan (WR, CAR)",
+          "pts": 11.2,
           "flag": ""
         },
         {
-          "player": "Dohnte Meyers (WR, CIN)",
-          "pts": 3.7,
+          "player": "Alvin Kamara (RB, NO)",
+          "pts": 8.7,
           "flag": ""
         }
       ]
+    },
+    {
+      "slot": "DEF",
+      "player_id": "MIN",
+      "player": "MIN DEF (DEF, MIN)",
+      "level": "RED",
+      "reason": "BYE (week 6)",
+      "alternatives": []
     }
   ],
   "bye_teams": [
-    "CAR",
-    "KC"
+    "CIN",
+    "DET",
+    "MIA",
+    "MIN"
   ]
 }
