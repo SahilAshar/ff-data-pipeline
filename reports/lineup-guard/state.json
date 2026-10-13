@@ -2,15 +2,30 @@
   "season": "2026",
   "week": 5,
   "season_type": "regular",
-  "run_at_et": "2026-10-11T19:53-04:00",
+  "run_at_et": "2026-10-12T23:48-04:00",
   "user": "0xAshar",
   "alert": true,
   "red": true,
-  "changed": false,
+  "changed": true,
   "signature": [
-    "FLEX:12529:RED"
+    "FLEX:12529:RED",
+    "WR:9488:YELLOW"
   ],
   "alerts": [
+    {
+      "slot": "WR",
+      "player_id": "9488",
+      "player": "Jaxon Smith-Njigba (WR, SEA)",
+      "level": "YELLOW",
+      "reason": "Questionable \u2014 Ankle",
+      "alternatives": [
+        {
+          "player": "Dohnte Meyers (WR, CIN)",
+          "pts": 3.7,
+          "flag": ""
+        }
+      ]
+    },
     {
       "slot": "FLEX",
       "player_id": "12529",
@@ -22,11 +37,6 @@
           "player": "Alvin Kamara (RB, NO)",
           "pts": 9.7,
           "flag": ""
-        },
-        {
-          "player": "DJ Moore (WR, BUF)",
-          "pts": 9.7,
-          "flag": "Questionable \u2014 Undisclosed"
         },
         {
           "player": "Dohnte Meyers (WR, CIN)",
