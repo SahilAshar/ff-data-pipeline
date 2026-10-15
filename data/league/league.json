@@ -63,11 +63,11 @@
   },
   "avatar": null,
   "company_id": null,
-  "last_message_id": "1416126657063825408",
+  "last_message_id": "1416511453225037824",
+  "sport": "nfl",
   "shard": 279,
   "season": "2026",
   "season_type": "regular",
-  "sport": "nfl",
   "scoring_settings": {
     "sack": 1.0,
     "fgm_40_49": 4.0,
@@ -119,7 +119,7 @@
   "last_author_is_bot": true,
   "last_message_attachment": null,
   "last_message_text_map": null,
-  "last_message_time": 1791993414706,
+  "last_message_time": 1792085157260,
   "last_pinned_message_id": null,
   "last_read_id": null,
   "league_id": "1384188162011566080",
@@ -127,8 +127,6 @@
   "bracket_id": null,
   "bracket_overrides_id": null,
   "group_id": null,
-  "loser_bracket_id": null,
-  "loser_bracket_overrides_id": null,
   "roster_positions": [
     "QB",
     "RB",
@@ -146,5 +144,7 @@
     "BN",
     "BN"
   ],
+  "loser_bracket_id": null,
+  "loser_bracket_overrides_id": null,
   "total_rosters": 10
 }
