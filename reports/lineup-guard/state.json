@@ -2,49 +2,48 @@
   "season": "2026",
   "week": 6,
   "season_type": "regular",
-  "run_at_et": "2026-10-13T03:02-04:00",
+  "run_at_et": "2026-10-15T21:36-04:00",
   "user": "0xAshar",
   "alert": true,
   "red": true,
   "changed": true,
   "signature": [
     "DEF:MIN:RED",
-    "FLEX:12529:RED",
-    "WR:9488:YELLOW"
+    "FLEX:12529:YELLOW",
+    "K:12015:RED"
   ],
   "alerts": [
-    {
-      "slot": "WR",
-      "player_id": "9488",
-      "player": "Jaxon Smith-Njigba (WR, SEA)",
-      "level": "YELLOW",
-      "reason": "Questionable \u2014 Ankle",
-      "alternatives": [
-        {
-          "player": "Tetairoa McMillan (WR, CAR)",
-          "pts": 11.2,
-          "flag": ""
-        }
-      ]
-    },
     {
       "slot": "FLEX",
       "player_id": "12529",
       "player": "TreVeyon Henderson (RB, NE)",
-      "level": "RED",
-      "reason": "Out \u2014 Ankle",
+      "level": "YELLOW",
+      "reason": "Questionable \u2014 Ankle",
       "alternatives": [
         {
+          "player": "DJ Moore (WR, BUF)",
+          "pts": 12.5,
+          "flag": "Questionable \u2014 Shoulder - AC Joint"
+        },
+        {
           "player": "Tetairoa McMillan (WR, CAR)",
-          "pts": 11.2,
+          "pts": 10.9,
           "flag": ""
         },
         {
           "player": "Alvin Kamara (RB, NO)",
-          "pts": 8.7,
-          "flag": ""
+          "pts": 8.8,
+          "flag": "Questionable \u2014 Back"
         }
       ]
+    },
+    {
+      "slot": "K",
+      "player_id": "12015",
+      "player": "Harrison Mevis (K, FA)",
+      "level": "RED",
+      "reason": "free agent / no team",
+      "alternatives": []
     },
     {
       "slot": "DEF",
