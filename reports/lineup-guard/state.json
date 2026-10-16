@@ -2,7 +2,7 @@
   "season": "2026",
   "week": 6,
   "season_type": "regular",
-  "run_at_et": "2026-10-15T21:36-04:00",
+  "run_at_et": "2026-10-16T00:51-04:00",
   "user": "0xAshar",
   "alert": true,
   "red": true,
@@ -10,7 +10,7 @@
   "signature": [
     "DEF:MIN:RED",
     "FLEX:12529:YELLOW",
-    "K:12015:RED"
+    "K:7839:RED"
   ],
   "alerts": [
     {
@@ -39,10 +39,10 @@
     },
     {
       "slot": "K",
-      "player_id": "12015",
-      "player": "Harrison Mevis (K, FA)",
+      "player_id": "7839",
+      "player": "Evan McPherson (K, CIN)",
       "level": "RED",
-      "reason": "free agent / no team",
+      "reason": "BYE (week 6)",
       "alternatives": []
     },
     {
