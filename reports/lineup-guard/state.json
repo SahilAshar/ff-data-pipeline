@@ -2,11 +2,11 @@
   "season": "2026",
   "week": 6,
   "season_type": "regular",
-  "run_at_et": "2026-10-16T00:51-04:00",
+  "run_at_et": "2026-10-17T18:08-04:00",
   "user": "0xAshar",
   "alert": true,
   "red": true,
-  "changed": true,
+  "changed": false,
   "signature": [
     "DEF:MIN:RED",
     "FLEX:12529:YELLOW",
@@ -22,7 +22,7 @@
       "alternatives": [
         {
           "player": "DJ Moore (WR, BUF)",
-          "pts": 12.5,
+          "pts": 11.3,
           "flag": "Questionable \u2014 Shoulder - AC Joint"
         },
         {
@@ -32,7 +32,7 @@
         },
         {
           "player": "Alvin Kamara (RB, NO)",
-          "pts": 8.8,
+          "pts": 9.1,
           "flag": "Questionable \u2014 Back"
         }
       ]
