@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 6
 
-Run Sun 2026-10-18 02:34 PM ET · season_type=regular · byes this week: CIN, DET, MIA, MIN
+Run Sun 2026-10-18 02:47 PM ET · season_type=regular · byes this week: CIN, DET, MIA, MIN
 
 ## Starters
 
