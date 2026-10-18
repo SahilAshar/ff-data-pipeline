@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 6
 
-Run Sun 2026-10-18 01:53 PM ET · season_type=regular · byes this week: CIN, DET, MIA, MIN
+Run Sun 2026-10-18 02:15 PM ET · season_type=regular · byes this week: CIN, DET, MIA, MIN
 
 ## Starters
 
@@ -26,7 +26,7 @@ Run Sun 2026-10-18 01:53 PM ET · season_type=regular · byes this week: CIN, DE
 | Kirk Cousins (QB, LV) | 17.7 | 🟢  |
 | DJ Moore (WR, BUF) | 11.3 | 🟡 Questionable — Shoulder - AC Joint |
 | Tetairoa McMillan (WR, CAR) | 11.0 | 🟢  |
-| Alvin Kamara (RB, NO) | 8.9 | 🟢  |
+| Alvin Kamara (RB, NO) | 8.9 | 🟡 Questionable — Undisclosed |
 | Alec Pierce (WR, IND) (IR slot) | 0.0 | 🔴 IR — Heel |
 | MIN DEF (DEF, MIN) | 0.0 | 🔴 BYE (week 6) |
 
