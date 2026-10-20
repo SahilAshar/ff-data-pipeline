@@ -1,18 +1,50 @@
 {
   "season": "2026",
-  "week": 6,
+  "week": 7,
   "season_type": "regular",
-  "run_at_et": "2026-10-19T22:02-04:00",
+  "run_at_et": "2026-10-20T01:11-04:00",
   "user": "0xAshar",
-  "alert": false,
-  "red": false,
-  "changed": false,
-  "signature": [],
-  "alerts": [],
+  "alert": true,
+  "red": true,
+  "changed": true,
+  "signature": [
+    "QB:4984:RED",
+    "RB:12490:RED"
+  ],
+  "alerts": [
+    {
+      "slot": "QB",
+      "player_id": "4984",
+      "player": "Josh Allen (QB, BUF)",
+      "level": "RED",
+      "reason": "BYE (week 7)",
+      "alternatives": [
+        {
+          "player": "Kirk Cousins (QB, LV)",
+          "pts": 15.8,
+          "flag": ""
+        }
+      ]
+    },
+    {
+      "slot": "RB",
+      "player_id": "12490",
+      "player": "Bhayshul Tuten (RB, JAX)",
+      "level": "RED",
+      "reason": "BYE (week 7)",
+      "alternatives": [
+        {
+          "player": "Alvin Kamara (RB, NO)",
+          "pts": 6.5,
+          "flag": "Questionable \u2014 Undisclosed"
+        }
+      ]
+    }
+  ],
   "bye_teams": [
-    "CIN",
-    "DET",
-    "MIA",
-    "MIN"
+    "BUF",
+    "JAX",
+    "LAC",
+    "WAS"
   ]
 }
