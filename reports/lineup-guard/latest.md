@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 7
 
-Run Thu 2026-10-22 09:49 PM ET · season_type=regular · byes this week: BUF, JAX, LAC, WAS
+Run Fri 2026-10-23 01:12 AM ET · season_type=regular · byes this week: BUF, JAX, LAC, WAS
 
 ## Starters
 
