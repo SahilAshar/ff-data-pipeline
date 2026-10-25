@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 7
 
-Run Sun 2026-10-25 05:58 PM ET · season_type=regular · byes this week: BUF, JAX, LAC, WAS
+Run Sun 2026-10-25 06:45 PM ET · season_type=regular · byes this week: BUF, JAX, LAC, WAS
 
 ## Starters
 
@@ -9,7 +9,7 @@ Run Sun 2026-10-25 05:58 PM ET · season_type=regular · byes this week: BUF, JA
 | QB | Kirk Cousins (QB, LV) | 15.9 | LAR | 🟢  |
 | RB | Derrick Henry (RB, BAL) | 16.1 | CIN | 🟢  |
 | RB | Braelon Allen (RB, NYJ) | 14.4 | MIA | 🟢  |
-| WR | Jaxon Smith-Njigba (WR, SEA) | 20.4 | KC | 🟢  |
+| WR | Jaxon Smith-Njigba (WR, SEA) | 20.5 | KC | 🟢  |
 | WR | Josh Downs (WR, IND) | 7.4 | MIN | 🟢  |
 | TE | Harold Fannin Jr. (TE, CLE) | 8.9 | TEN | 🟢  |
 | FLEX | Tetairoa McMillan (WR, CAR) | 11.7 | TB | 🟢  |
