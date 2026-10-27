@@ -1,18 +1,18 @@
 {
   "season": "2026",
-  "week": 7,
+  "week": 8,
   "season_type": "regular",
-  "run_at_et": "2026-10-26T22:23-04:00",
+  "run_at_et": "2026-10-27T01:30-04:00",
   "user": "0xAshar",
   "alert": false,
   "red": false,
-  "changed": false,
+  "changed": true,
   "signature": [],
   "alerts": [],
   "bye_teams": [
-    "BUF",
-    "JAX",
-    "LAC",
-    "WAS"
+    "HOU",
+    "NO",
+    "NYG",
+    "SF"
   ]
 }

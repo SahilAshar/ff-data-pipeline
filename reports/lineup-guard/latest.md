@@ -1,21 +1,21 @@
-# Lineup guard — 0xAshar — 2026 week 7
+# Lineup guard — 0xAshar — 2026 week 8
 
-Run Mon 2026-10-26 10:23 PM ET · season_type=regular · byes this week: BUF, JAX, LAC, WAS
+Run Tue 2026-10-27 01:30 AM ET · season_type=regular · byes this week: HOU, NO, NYG, SF
 
 ## Starters
 
 | Slot | Starter | Proj | Opp | Status |
 |---|---|--:|---|---|
-| QB | Kirk Cousins (QB, LV) | 15.9 | LAR | 🟢  |
-| RB | Derrick Henry (RB, BAL) | 16.1 | CIN | 🟢  |
-| RB | Braelon Allen (RB, NYJ) | 14.4 | MIA | 🟢  |
-| WR | Jaxon Smith-Njigba (WR, SEA) | 20.7 | KC | 🟢  |
-| WR | Josh Downs (WR, IND) | 7.4 | MIN | 🟢  |
-| TE | Harold Fannin Jr. (TE, CLE) | 8.9 | TEN | 🟢  |
-| FLEX | Tetairoa McMillan (WR, CAR) | 11.7 | TB | 🟢  |
-| FLEX | TreVeyon Henderson (RB, NE) | 6.3 | CHI | 🟢  |
-| K | Matt Gay (K, LV) | 9.1 | LAR | 🟢  |
-| DEF | CAR DEF (DEF, CAR) | 7.6 | TB | 🟢  |
+| QB | Kirk Cousins (QB, LV) | 16.5 | NYJ | 🟢  |
+| RB | Derrick Henry (RB, BAL) | 15.3 | BUF | 🟢  |
+| RB | Braelon Allen (RB, NYJ) | 7.0 | LV | 🟢  |
+| WR | Jaxon Smith-Njigba (WR, SEA) | 21.4 | CHI | 🟢  |
+| WR | Josh Downs (WR, IND) | 8.0 | JAX | 🟢  |
+| TE | Harold Fannin Jr. (TE, CLE) | 8.5 | PIT | 🟢  |
+| FLEX | Tetairoa McMillan (WR, CAR) | 11.8 | GB | 🟢  |
+| FLEX | TreVeyon Henderson (RB, NE) | 6.7 | MIA | 🟢  |
+| K | Matt Gay (K, LV) | 8.5 | NYJ | 🟢  |
+| DEF | CAR DEF (DEF, CAR) | 5.4 | GB | 🟢  |
 
 ## ✅ All starters available
 
@@ -23,10 +23,16 @@ Run Mon 2026-10-26 10:23 PM ET · season_type=regular · byes this week: BUF, JA
 
 | Player | Proj | Status |
 |---|--:|---|
-| MIN DEF (DEF, MIN) | 8.9 | 🟢  |
-| Alvin Kamara (RB, NO) | 6.5 | 🟢  |
-| Bhayshul Tuten (RB, JAX) | 0.0 | 🔴 BYE (week 7) |
-| DJ Moore (WR, BUF) | 0.0 | 🔴 BYE (week 7) |
-| Josh Allen (QB, BUF) | 0.0 | 🔴 BYE (week 7) |
+| Josh Allen (QB, BUF) | 24.4 | 🟢  |
+| Bhayshul Tuten (RB, JAX) | 13.0 | 🟢  |
+| DJ Moore (WR, BUF) | 12.1 | 🔴 Out — Shoulder - AC Joint |
+| MIN DEF (DEF, MIN) | 6.4 | 🟢  |
+| Alvin Kamara (RB, NO) | 0.0 | 🔴 BYE (week 8) |
 | Alec Pierce (WR, IND) (IR slot) | 0.0 | 🔴 IR — Heel |
+
+## Projection swaps (info only, ≥ 2.0 pt edge)
+
+- QB: Josh Allen (QB, BUF) (24.4) over Kirk Cousins (QB, LV) (16.5) — +7.9
+- FLEX: Bhayshul Tuten (RB, JAX) (13.0) over TreVeyon Henderson (RB, NE) (6.7) — +6.3
+- RB: Bhayshul Tuten (RB, JAX) (13.0) over Braelon Allen (RB, NYJ) (7.0) — +6.0
 
