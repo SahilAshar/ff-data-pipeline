@@ -17,17 +17,18 @@
       "12526",
       "12529",
       "3198",
-      "4035",
       "4983",
       "4984",
+      "5844",
       "6083",
       "8142",
       "9488",
       "9500",
-      "CAR",
+      "CIN",
       "MIN"
     ],
     "reserve": [
+      "4983",
       "8142"
     ],
     "roster_id": 1,
@@ -42,20 +43,20 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 5,
+      "waiver_position": 9,
       "wins": 5
     },
     "starters": [
-      "1166",
+      "4984",
       "3198",
-      "11576",
+      "12490",
       "9488",
-      "9500",
-      "12506",
       "12526",
-      "12529",
+      "12506",
+      "9500",
+      "11576",
       "6083",
-      "CAR"
+      "0"
     ],
     "taxi": null
   },
@@ -77,7 +78,6 @@
       "12527",
       "13279",
       "1466",
-      "1945",
       "3163",
       "4881",
       "5967",
@@ -85,7 +85,8 @@
       "7543",
       "8137",
       "DEN",
-      "HOU"
+      "HOU",
+      "JAX"
     ],
     "reserve": [
       "7543"
@@ -93,8 +94,8 @@
     "roster_id": 2,
     "settings": {
       "fpts": 856,
-      "fpts_against": 851,
-      "fpts_against_decimal": 10,
+      "fpts_against": 850,
+      "fpts_against_decimal": 99,
       "fpts_decimal": 22,
       "losses": 4,
       "ppts": 954,
@@ -102,7 +103,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 10,
+      "waiver_position": 6,
       "wins": 3
     },
     "starters": [
@@ -114,8 +115,8 @@
       "1466",
       "8137",
       "11586",
-      "1945",
-      "HOU"
+      "11786",
+      "JAX"
     ],
     "taxi": null
   },
@@ -138,15 +139,14 @@
       "4046",
       "5846",
       "7588",
+      "7839",
       "8138",
       "8144",
       "8148",
       "9757",
       "CLE"
     ],
-    "reserve": [
-      "12514"
-    ],
+    "reserve": null,
     "roster_id": 3,
     "settings": {
       "fpts": 875,
@@ -171,7 +171,7 @@
       "3214",
       "8148",
       "13346",
-      "0",
+      "7839",
       "CLE"
     ],
     "taxi": null
@@ -200,10 +200,10 @@
       "11628",
       "11834",
       "12507",
+      "13345",
       "4037",
       "6770",
       "6801",
-      "6804",
       "7594",
       "8130",
       "8134",
@@ -225,7 +225,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 3,
+      "waiver_position": 7,
       "wins": 3
     },
     "starters": [
@@ -235,7 +235,7 @@
       "6801",
       "8146",
       "8130",
-      "8134",
+      "13345",
       "4037",
       "11533",
       "SEA"
@@ -297,14 +297,14 @@
       "fpts": 684,
       "fpts_against": 881,
       "fpts_against_decimal": 90,
-      "fpts_decimal": 42,
+      "fpts_decimal": 32,
       "losses": 5,
       "ppts": 769,
-      "ppts_decimal": 62,
+      "ppts_decimal": 52,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 6,
+      "waiver_position": 4,
       "wins": 2
     },
     "starters": [
@@ -368,7 +368,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 7,
+      "waiver_position": 5,
       "wins": 3
     },
     "starters": [
@@ -429,7 +429,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 4,
+      "waiver_position": 3,
       "wins": 5
     },
     "starters": [
@@ -519,22 +519,22 @@
     "owner_id": "862072589089087488",
     "player_map": null,
     "players": [
+      "11539",
       "11560",
       "11584",
       "11646",
-      "12474",
       "12545",
       "13276",
       "2216",
       "3451",
-      "6806",
       "7547",
       "7611",
       "8131",
       "8150",
       "8408",
       "9224",
-      "NYJ"
+      "9480",
+      "LAR"
     ],
     "reserve": [
       "2216"
@@ -551,7 +551,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 9,
+      "waiver_position": 10,
       "wins": 6
     },
     "starters": [
@@ -560,11 +560,11 @@
       "11584",
       "7547",
       "11646",
-      "8131",
-      "12474",
+      "9480",
+      "13276",
       "9224",
-      "3451",
-      "NYJ"
+      "11539",
+      "LAR"
     ],
     "taxi": null
   },
