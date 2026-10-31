@@ -2,7 +2,7 @@
   "season": "2026",
   "week": 8,
   "season_type": "regular",
-  "run_at_et": "2026-10-30T02:17-04:00",
+  "run_at_et": "2026-10-31T19:15-04:00",
   "user": "0xAshar",
   "alert": true,
   "red": false,
@@ -20,16 +20,16 @@
       "alternatives": [
         {
           "player": "T.J. Hockenson (TE, MIN)",
-          "pts": 8.8,
-          "flag": ""
-        },
-        {
-          "player": "Josh Downs (WR, IND)",
-          "pts": 8.1,
+          "pts": 8.5,
           "flag": ""
         },
         {
           "player": "Rico Dowdle (RB, PIT)",
+          "pts": 7.9,
+          "flag": ""
+        },
+        {
+          "player": "Josh Downs (WR, IND)",
           "pts": 7.9,
           "flag": ""
         }
