@@ -2,11 +2,11 @@
   "season": "2026",
   "week": 8,
   "season_type": "regular",
-  "run_at_et": "2026-11-01T17:57-05:00",
+  "run_at_et": "2026-11-01T18:49-05:00",
   "user": "0xAshar",
   "alert": true,
   "red": false,
-  "changed": true,
+  "changed": false,
   "signature": [
     "FLEX:4983:YELLOW"
   ],
