@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 8
 
-Run Sun 2026-11-01 03:25 PM ET · season_type=regular · byes this week: HOU, NO, NYG, SF
+Run Sun 2026-11-01 03:41 PM ET · season_type=regular · byes this week: HOU, NO, NYG, SF
 
 ## Starters
 
