@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 8
 
-Run Sun 2026-11-01 03:41 PM ET · season_type=regular · byes this week: HOU, NO, NYG, SF
+Run Sun 2026-11-01 05:57 PM ET · season_type=regular · byes this week: HOU, NO, NYG, SF
 
 ## Starters
 
@@ -12,12 +12,17 @@ Run Sun 2026-11-01 03:41 PM ET · season_type=regular · byes this week: HOU, NO
 | WR | Jaxon Smith-Njigba (WR, SEA) | 21.6 | CHI | 🟢  |
 | WR | Tetairoa McMillan (WR, CAR) | 12.2 | GB | 🟢  |
 | TE | Harold Fannin Jr. (TE, CLE) | 8.7 | PIT | 🟢  |
-| FLEX | DJ Moore (WR, BUF) | 11.9 | BAL | 🟢  |
+| FLEX | DJ Moore (WR, BUF) | 11.9 | BAL | 🟡 Questionable — Undisclosed |
 | FLEX | Braelon Allen (RB, NYJ) | 15.2 | LV | 🟢  |
 | K | Matt Gay (K, LV) | 8.6 | NYJ | 🟢  |
 | DEF | CIN DEF (DEF, CIN) | 9.5 | TEN | 🟢  |
 
-## ✅ All starters available
+## ⚠️ Action needed
+
+- **FLEX: DJ Moore (WR, BUF)** — Questionable — Undisclosed
+    - swap in T.J. Hockenson (TE, MIN) — proj 8.6
+    - swap in Josh Downs (WR, IND) — proj 7.8
+    - swap in Rico Dowdle (RB, PIT) — proj 7.8
 
 ## Bench
 

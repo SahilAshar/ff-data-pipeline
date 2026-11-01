@@ -2,13 +2,40 @@
   "season": "2026",
   "week": 8,
   "season_type": "regular",
-  "run_at_et": "2026-11-01T15:41-05:00",
+  "run_at_et": "2026-11-01T17:57-05:00",
   "user": "0xAshar",
-  "alert": false,
+  "alert": true,
   "red": false,
-  "changed": false,
-  "signature": [],
-  "alerts": [],
+  "changed": true,
+  "signature": [
+    "FLEX:4983:YELLOW"
+  ],
+  "alerts": [
+    {
+      "slot": "FLEX",
+      "player_id": "4983",
+      "player": "DJ Moore (WR, BUF)",
+      "level": "YELLOW",
+      "reason": "Questionable \u2014 Undisclosed",
+      "alternatives": [
+        {
+          "player": "T.J. Hockenson (TE, MIN)",
+          "pts": 8.6,
+          "flag": ""
+        },
+        {
+          "player": "Josh Downs (WR, IND)",
+          "pts": 7.8,
+          "flag": ""
+        },
+        {
+          "player": "Rico Dowdle (RB, PIT)",
+          "pts": 7.8,
+          "flag": ""
+        }
+      ]
+    }
+  ],
   "bye_teams": [
     "HOU",
     "NO",
