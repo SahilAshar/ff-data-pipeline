@@ -1,39 +1,38 @@
-# Lineup guard — 0xAshar — 2026 week 8
+# Lineup guard — 0xAshar — 2026 week 9
 
-Run Mon 2026-11-02 10:59 PM ET · season_type=regular · byes this week: HOU, NO, NYG, SF
+Run Tue 2026-11-03 02:10 AM ET · season_type=regular · byes this week: PIT, TEN
 
 ## Starters
 
 | Slot | Starter | Proj | Opp | Status |
 |---|---|--:|---|---|
-| QB | Josh Allen (QB, BUF) | 24.4 | BAL | 🟢  |
-| RB | Derrick Henry (RB, BAL) | 15.5 | BUF | 🟢  |
-| RB | Bhayshul Tuten (RB, JAX) | 14.4 | IND | 🟡 Questionable — Ankle |
-| WR | Jaxon Smith-Njigba (WR, SEA) | 21.6 | CHI | 🟢  |
-| WR | Tetairoa McMillan (WR, CAR) | 12.2 | GB | 🟢  |
-| TE | Harold Fannin Jr. (TE, CLE) | 8.7 | PIT | 🟢  |
-| FLEX | DJ Moore (WR, BUF) | 11.9 | BAL | 🟡 Questionable — Undisclosed |
-| FLEX | Braelon Allen (RB, NYJ) | 15.2 | LV | 🟢  |
-| K | Matt Gay (K, LV) | 8.6 | NYJ | 🟢  |
-| DEF | CIN DEF (DEF, CIN) | 9.5 | TEN | 🟢  |
+| QB | Josh Allen (QB, BUF) | 21.6 | MIN | 🟢  |
+| RB | Derrick Henry (RB, BAL) | 13.3 | JAX | 🟢  |
+| RB | Bhayshul Tuten (RB, JAX) | 11.7 | BAL | 🟡 Questionable — Ankle |
+| WR | Jaxon Smith-Njigba (WR, SEA) | 21.7 | ARI | 🟢  |
+| WR | Tetairoa McMillan (WR, CAR) | 10.6 | DEN | 🟢  |
+| TE | Harold Fannin Jr. (TE, CLE) | 9.0 | NO | 🟢  |
+| FLEX | DJ Moore (WR, BUF) | 10.8 | MIN | 🟡 Questionable — Undisclosed |
+| FLEX | Braelon Allen (RB, NYJ) | 9.2 | KC | 🟢  |
+| K | Matt Gay (K, LV) | 8.2 | SF | 🟢  |
+| DEF | CIN DEF (DEF, CIN) | 6.8 | ATL | 🟢  |
 
 ## ⚠️ Action needed
 
 - **RB: Bhayshul Tuten (RB, JAX)** — Questionable — Ankle
-    - swap in Rico Dowdle (RB, PIT) — proj 7.8
+    - no eligible bench replacement — pick up a free agent
 - **FLEX: DJ Moore (WR, BUF)** — Questionable — Undisclosed
-    - swap in T.J. Hockenson (TE, MIN) — proj 8.6
-    - swap in Josh Downs (WR, IND) — proj 7.8
-    - swap in Rico Dowdle (RB, PIT) — proj 7.8
+    - swap in Josh Downs (WR, IND) — proj 8.6
+    - swap in T.J. Hockenson (TE, MIN) — proj 8.0
 
 ## Bench
 
 | Player | Proj | Status |
 |---|--:|---|
-| Kirk Cousins (QB, LV) | 16.9 | 🟢  |
-| T.J. Hockenson (TE, MIN) | 8.6 | 🟢  |
-| Josh Downs (WR, IND) | 7.8 | 🟢  |
-| Rico Dowdle (RB, PIT) | 7.8 | 🟢  |
+| Kirk Cousins (QB, LV) | 15.7 | 🟢  |
+| Josh Downs (WR, IND) | 8.6 | 🟢  |
+| T.J. Hockenson (TE, MIN) | 8.0 | 🟢  |
 | MIN DEF (DEF, MIN) | 6.4 | 🟢  |
+| Rico Dowdle (RB, PIT) | 0.0 | 🔴 BYE (week 9) |
 | Alec Pierce (WR, IND) (IR slot) | 0.0 | 🔴 IR — Heel |
 
