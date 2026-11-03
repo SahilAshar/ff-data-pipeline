@@ -2,15 +2,30 @@
   "season": "2026",
   "week": 8,
   "season_type": "regular",
-  "run_at_et": "2026-11-01T18:49-05:00",
+  "run_at_et": "2026-11-02T22:59-05:00",
   "user": "0xAshar",
   "alert": true,
   "red": false,
-  "changed": false,
+  "changed": true,
   "signature": [
-    "FLEX:4983:YELLOW"
+    "FLEX:4983:YELLOW",
+    "RB:12490:YELLOW"
   ],
   "alerts": [
+    {
+      "slot": "RB",
+      "player_id": "12490",
+      "player": "Bhayshul Tuten (RB, JAX)",
+      "level": "YELLOW",
+      "reason": "Questionable \u2014 Ankle",
+      "alternatives": [
+        {
+          "player": "Rico Dowdle (RB, PIT)",
+          "pts": 7.8,
+          "flag": ""
+        }
+      ]
+    },
     {
       "slot": "FLEX",
       "player_id": "4983",

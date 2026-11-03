@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 8
 
-Run Sun 2026-11-01 06:49 PM ET · season_type=regular · byes this week: HOU, NO, NYG, SF
+Run Mon 2026-11-02 10:59 PM ET · season_type=regular · byes this week: HOU, NO, NYG, SF
 
 ## Starters
 
@@ -8,7 +8,7 @@ Run Sun 2026-11-01 06:49 PM ET · season_type=regular · byes this week: HOU, NO
 |---|---|--:|---|---|
 | QB | Josh Allen (QB, BUF) | 24.4 | BAL | 🟢  |
 | RB | Derrick Henry (RB, BAL) | 15.5 | BUF | 🟢  |
-| RB | Bhayshul Tuten (RB, JAX) | 14.4 | IND | 🟢  |
+| RB | Bhayshul Tuten (RB, JAX) | 14.4 | IND | 🟡 Questionable — Ankle |
 | WR | Jaxon Smith-Njigba (WR, SEA) | 21.6 | CHI | 🟢  |
 | WR | Tetairoa McMillan (WR, CAR) | 12.2 | GB | 🟢  |
 | TE | Harold Fannin Jr. (TE, CLE) | 8.7 | PIT | 🟢  |
@@ -19,6 +19,8 @@ Run Sun 2026-11-01 06:49 PM ET · season_type=regular · byes this week: HOU, NO
 
 ## ⚠️ Action needed
 
+- **RB: Bhayshul Tuten (RB, JAX)** — Questionable — Ankle
+    - swap in Rico Dowdle (RB, PIT) — proj 7.8
 - **FLEX: DJ Moore (WR, BUF)** — Questionable — Undisclosed
     - swap in T.J. Hockenson (TE, MIN) — proj 8.6
     - swap in Josh Downs (WR, IND) — proj 7.8
