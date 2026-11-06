@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 9
 
-Run Thu 2026-11-05 10:35 PM ET · season_type=regular · byes this week: PIT, TEN
+Run Fri 2026-11-06 02:12 AM ET · season_type=regular · byes this week: PIT, TEN
 
 ## Starters
 
@@ -10,7 +10,7 @@ Run Thu 2026-11-05 10:35 PM ET · season_type=regular · byes this week: PIT, TE
 | RB | Derrick Henry (RB, BAL) | 11.2 | JAX | 🟢  |
 | RB | Bhayshul Tuten (RB, JAX) | 12.4 | BAL | 🟢  |
 | WR | Jaxon Smith-Njigba (WR, SEA) | 20.7 | ARI | 🟢  |
-| WR | Tetairoa McMillan (WR, CAR) | 11.5 | DEN | 🟢  |
+| WR | Tetairoa McMillan (WR, CAR) | 11.3 | DEN | 🟢  |
 | TE | Harold Fannin Jr. (TE, CLE) | 9.2 | NO | 🟡 Questionable — Groin |
 | FLEX | DJ Moore (WR, BUF) | 10.8 | MIN | 🟡 Questionable — Undisclosed |
 | FLEX | Braelon Allen (RB, NYJ) | 9.4 | KC | 🟢  |
