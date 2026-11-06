@@ -2,23 +2,29 @@
   "season": "2026",
   "week": 9,
   "season_type": "regular",
-  "run_at_et": "2026-11-03T02:10-05:00",
+  "run_at_et": "2026-11-05T22:35-05:00",
   "user": "0xAshar",
   "alert": true,
   "red": false,
   "changed": true,
   "signature": [
     "FLEX:4983:YELLOW",
-    "RB:12490:YELLOW"
+    "TE:12506:YELLOW"
   ],
   "alerts": [
     {
-      "slot": "RB",
-      "player_id": "12490",
-      "player": "Bhayshul Tuten (RB, JAX)",
+      "slot": "TE",
+      "player_id": "12506",
+      "player": "Harold Fannin Jr. (TE, CLE)",
       "level": "YELLOW",
-      "reason": "Questionable \u2014 Ankle",
-      "alternatives": []
+      "reason": "Questionable \u2014 Groin",
+      "alternatives": [
+        {
+          "player": "T.J. Hockenson (TE, MIN)",
+          "pts": 8.5,
+          "flag": ""
+        }
+      ]
     },
     {
       "slot": "FLEX",
@@ -29,12 +35,12 @@
       "alternatives": [
         {
           "player": "Josh Downs (WR, IND)",
-          "pts": 8.6,
+          "pts": 8.9,
           "flag": ""
         },
         {
           "player": "T.J. Hockenson (TE, MIN)",
-          "pts": 8.0,
+          "pts": 8.5,
           "flag": ""
         }
       ]
