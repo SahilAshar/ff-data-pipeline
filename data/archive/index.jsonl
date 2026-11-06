@@ -48,3 +48,4 @@
 {"run_id": "20261102T022158Z", "season": "2026", "week": 8, "season_type": "regular", "started_at": "2026-11-02T02:21:58.202441+00:00", "ok": 10, "written": 9, "failed": 0, "failed_sources": []}
 {"run_id": "20261103T025211Z", "season": "2026", "week": 8, "season_type": "regular", "started_at": "2026-11-03T02:52:11.820843+00:00", "ok": 10, "written": 7, "failed": 0, "failed_sources": []}
 {"run_id": "20261103T205101Z", "season": "2026", "week": 8, "season_type": "regular", "started_at": "2026-11-03T20:51:01.040191+00:00", "ok": 6, "written": 5, "failed": 4, "failed_sources": ["fantasypros_ecr_flex", "fantasypros_ecr_qb", "fantasypros_ecr_k", "fantasypros_ecr_dst"]}
+{"run_id": "20261106T012923Z", "season": "2026", "week": 9, "season_type": "regular", "started_at": "2026-11-06T01:29:23.385590+00:00", "ok": 10, "written": 10, "failed": 0, "failed_sources": []}
