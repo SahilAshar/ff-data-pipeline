@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 9
 
-Run Sat 2026-11-07 06:32 PM ET · season_type=regular · byes this week: PIT, TEN
+Run Sun 2026-11-08 02:25 PM ET · season_type=regular · byes this week: PIT, TEN
 
 ## Starters
 
@@ -13,7 +13,7 @@ Run Sat 2026-11-07 06:32 PM ET · season_type=regular · byes this week: PIT, TE
 | WR | Tetairoa McMillan (WR, CAR) | 11.3 | DEN | 🟢  |
 | TE | Harold Fannin Jr. (TE, CLE) | 9.2 | NO | 🟢  |
 | FLEX | DJ Moore (WR, BUF) | 10.8 | MIN | 🟢  |
-| FLEX | Braelon Allen (RB, NYJ) | 9.6 | KC | 🟢  |
+| FLEX | Braelon Allen (RB, NYJ) | 9.2 | KC | 🟢  |
 | K | Matt Gay (K, LV) | 8.2 | SF | 🟢  |
 | DEF | CIN DEF (DEF, CIN) | 6.5 | ATL | 🟢  |
 
