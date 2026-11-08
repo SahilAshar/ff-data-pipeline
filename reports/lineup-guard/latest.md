@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 9
 
-Run Sun 2026-11-08 06:00 PM ET · season_type=regular · byes this week: PIT, TEN
+Run Sun 2026-11-08 06:56 PM ET · season_type=regular · byes this week: PIT, TEN
 
 ## Starters
 
