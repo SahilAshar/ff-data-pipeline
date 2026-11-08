@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 9
 
-Run Sun 2026-11-08 03:40 PM ET · season_type=regular · byes this week: PIT, TEN
+Run Sun 2026-11-08 06:00 PM ET · season_type=regular · byes this week: PIT, TEN
 
 ## Starters
 
@@ -14,7 +14,7 @@ Run Sun 2026-11-08 03:40 PM ET · season_type=regular · byes this week: PIT, TE
 | TE | Harold Fannin Jr. (TE, CLE) | 9.2 | NO | 🟢  |
 | FLEX | DJ Moore (WR, BUF) | 10.8 | MIN | 🟢  |
 | FLEX | Braelon Allen (RB, NYJ) | 9.2 | KC | 🟢  |
-| K | Matt Gay (K, LV) | 8.2 | SF | 🟢  |
+| K | Matt Gay (K, LV) | 8.3 | SF | 🟢  |
 | DEF | CIN DEF (DEF, CIN) | 6.5 | ATL | 🟢  |
 
 ## ✅ All starters available
@@ -23,7 +23,7 @@ Run Sun 2026-11-08 03:40 PM ET · season_type=regular · byes this week: PIT, TE
 
 | Player | Proj | Status |
 |---|--:|---|
-| Kirk Cousins (QB, LV) | 17.1 | 🟢  |
+| Kirk Cousins (QB, LV) | 17.3 | 🟢  |
 | Josh Downs (WR, IND) | 8.9 | 🟢  |
 | T.J. Hockenson (TE, MIN) | 8.3 | 🟢  |
 | MIN DEF (DEF, MIN) | 6.3 | 🟢  |
