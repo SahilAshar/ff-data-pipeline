@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 9
 
-Run Sun 2026-11-08 02:55 PM ET · season_type=regular · byes this week: PIT, TEN
+Run Sun 2026-11-08 03:21 PM ET · season_type=regular · byes this week: PIT, TEN
 
 ## Starters
 
@@ -23,7 +23,7 @@ Run Sun 2026-11-08 02:55 PM ET · season_type=regular · byes this week: PIT, TE
 
 | Player | Proj | Status |
 |---|--:|---|
-| Kirk Cousins (QB, LV) | 17.0 | 🟢  |
+| Kirk Cousins (QB, LV) | 17.1 | 🟢  |
 | Josh Downs (WR, IND) | 8.9 | 🟢  |
 | T.J. Hockenson (TE, MIN) | 8.3 | 🟢  |
 | MIN DEF (DEF, MIN) | 6.3 | 🟢  |
