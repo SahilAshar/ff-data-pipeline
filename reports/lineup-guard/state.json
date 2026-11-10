@@ -1,16 +1,18 @@
 {
   "season": "2026",
-  "week": 9,
+  "week": 10,
   "season_type": "regular",
-  "run_at_et": "2026-11-09T23:45-05:00",
+  "run_at_et": "2026-11-10T02:41-05:00",
   "user": "0xAshar",
   "alert": false,
   "red": false,
-  "changed": false,
+  "changed": true,
   "signature": [],
   "alerts": [],
   "bye_teams": [
-    "PIT",
-    "TEN"
+    "CHI",
+    "DEN",
+    "PHI",
+    "TB"
   ]
 }
