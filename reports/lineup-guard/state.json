@@ -2,13 +2,45 @@
   "season": "2026",
   "week": 10,
   "season_type": "regular",
-  "run_at_et": "2026-11-10T02:41-05:00",
+  "run_at_et": "2026-11-12T22:32-05:00",
   "user": "0xAshar",
-  "alert": false,
+  "alert": true,
   "red": false,
   "changed": true,
-  "signature": [],
-  "alerts": [],
+  "signature": [
+    "RB:12490:YELLOW",
+    "TE:12506:YELLOW"
+  ],
+  "alerts": [
+    {
+      "slot": "RB",
+      "player_id": "12490",
+      "player": "Bhayshul Tuten (RB, JAX)",
+      "level": "YELLOW",
+      "reason": "Questionable \u2014 Ankle",
+      "alternatives": [
+        {
+          "player": "Rico Dowdle (RB, PIT)",
+          "pts": 8.8,
+          "flag": ""
+        }
+      ]
+    },
+    {
+      "slot": "TE",
+      "player_id": "12506",
+      "player": "Harold Fannin Jr. (TE, CLE)",
+      "level": "YELLOW",
+      "reason": "Questionable \u2014 Groin",
+      "alternatives": [
+        {
+          "player": "T.J. Hockenson (TE, MIN)",
+          "pts": 8.3,
+          "flag": "Questionable \u2014 Wrist"
+        }
+      ]
+    }
+  ],
   "bye_teams": [
     "CHI",
     "DEN",
