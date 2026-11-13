@@ -1,17 +1,17 @@
 # Lineup guard — 0xAshar — 2026 week 10
 
-Run Thu 2026-11-12 10:32 PM ET · season_type=regular · byes this week: CHI, DEN, PHI, TB
+Run Fri 2026-11-13 02:05 AM ET · season_type=regular · byes this week: CHI, DEN, PHI, TB
 
 ## Starters
 
 | Slot | Starter | Proj | Opp | Status |
 |---|---|--:|---|---|
 | QB | Josh Allen (QB, BUF) | 24.6 | NYJ | 🟢  |
-| RB | Derrick Henry (RB, BAL) | 14.7 | LAC | 🟢  |
+| RB | Derrick Henry (RB, BAL) | 14.6 | LAC | 🟢  |
 | RB | Bhayshul Tuten (RB, JAX) | 13.1 | TEN | 🟡 Questionable — Ankle |
 | WR | Jaxon Smith-Njigba (WR, SEA) | 19.4 | LV | 🟢  |
 | WR | Tetairoa McMillan (WR, CAR) | 12.8 | NO | 🟢  |
-| TE | Harold Fannin Jr. (TE, CLE) | 8.6 | HOU | 🟡 Questionable — Groin |
+| TE | Harold Fannin Jr. (TE, CLE) | 8.5 | HOU | 🟡 Questionable — Groin |
 | FLEX | DJ Moore (WR, BUF) | 10.7 | NYJ | 🟢  |
 | FLEX | Braelon Allen (RB, NYJ) | 7.0 | BUF | 🟢  |
 | K | Matt Gay (K, LV) | 7.9 | SEA | 🟢  |
