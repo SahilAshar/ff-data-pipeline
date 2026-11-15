@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 10
 
-Run Sun 2026-11-15 03:58 PM ET · season_type=regular · byes this week: CHI, DEN, PHI, TB
+Run Sun 2026-11-15 04:09 PM ET · season_type=regular · byes this week: CHI, DEN, PHI, TB
 
 ## Starters
 
