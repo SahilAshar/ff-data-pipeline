@@ -1,21 +1,21 @@
 # Lineup guard — 0xAshar — 2026 week 11
 
-Run Tue 2026-11-17 12:12 AM ET · season_type=regular · byes this week: ATL, CLE, GB, LAR, NE, SEA
+Run Tue 2026-11-17 03:24 AM ET · season_type=regular · byes this week: ATL, CLE, GB, LAR, NE, SEA
 
 ## Starters
 
 | Slot | Starter | Proj | Opp | Status |
 |---|---|--:|---|---|
 | QB | Josh Allen (QB, BUF) | 25.2 | MIA | 🟢  |
-| RB | Derrick Henry (RB, BAL) | 14.9 | CAR | 🟢  |
-| RB | Bhayshul Tuten (RB, JAX) | 14.2 | NYG | 🟢  |
+| RB | Derrick Henry (RB, BAL) | 14.8 | CAR | 🟢  |
+| RB | Bhayshul Tuten (RB, JAX) | 14.3 | NYG | 🟢  |
 | WR | Jaxon Smith-Njigba (WR, SEA) | 0.0 | — | 🔴 BYE (week 11) |
-| WR | Tetairoa McMillan (WR, CAR) | 12.4 | BAL | 🟢  |
+| WR | Tetairoa McMillan (WR, CAR) | 12.3 | BAL | 🟢  |
 | TE | Harold Fannin Jr. (TE, CLE) | 0.0 | — | 🔴 BYE (week 11) |
 | FLEX | DJ Moore (WR, BUF) | 11.2 | MIA | 🟢  |
-| FLEX | Braelon Allen (RB, NYJ) | 8.2 | LAC | 🟢  |
-| K | Matt Gay (K, LV) | 7.3 | DEN | 🟢  |
-| DEF | CIN DEF (DEF, CIN) | 6.5 | WAS | 🟢  |
+| FLEX | Braelon Allen (RB, NYJ) | 7.9 | LAC | 🟢  |
+| K | Matt Gay (K, LV) | 7.4 | DEN | 🟢  |
+| DEF | CIN DEF (DEF, CIN) | 6.4 | WAS | 🟢  |
 
 ## ⚠️ Action needed
 
