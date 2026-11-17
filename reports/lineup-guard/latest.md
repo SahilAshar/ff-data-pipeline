@@ -1,32 +1,41 @@
-# Lineup guard — 0xAshar — 2026 week 10
+# Lineup guard — 0xAshar — 2026 week 11
 
-Run Sun 2026-11-15 07:16 PM ET · season_type=regular · byes this week: CHI, DEN, PHI, TB
+Run Tue 2026-11-17 12:12 AM ET · season_type=regular · byes this week: ATL, CLE, GB, LAR, NE, SEA
 
 ## Starters
 
 | Slot | Starter | Proj | Opp | Status |
 |---|---|--:|---|---|
-| QB | Josh Allen (QB, BUF) | 23.9 | NYJ | 🟢  |
-| RB | Derrick Henry (RB, BAL) | 14.9 | LAC | 🟢  |
-| RB | Bhayshul Tuten (RB, JAX) | 12.9 | TEN | 🟢  |
-| WR | Jaxon Smith-Njigba (WR, SEA) | 19.5 | LV | 🟢  |
-| WR | Tetairoa McMillan (WR, CAR) | 13.0 | NO | 🟢  |
-| TE | Harold Fannin Jr. (TE, CLE) | 8.9 | HOU | 🟢  |
-| FLEX | DJ Moore (WR, BUF) | 10.2 | NYJ | 🟢  |
-| FLEX | Braelon Allen (RB, NYJ) | 7.1 | BUF | 🟢  |
-| K | Matt Gay (K, LV) | 8.0 | SEA | 🟢  |
-| DEF | CIN DEF (DEF, CIN) | 6.3 | PIT | 🟢  |
+| QB | Josh Allen (QB, BUF) | 25.2 | MIA | 🟢  |
+| RB | Derrick Henry (RB, BAL) | 14.9 | CAR | 🟢  |
+| RB | Bhayshul Tuten (RB, JAX) | 14.2 | NYG | 🟢  |
+| WR | Jaxon Smith-Njigba (WR, SEA) | 0.0 | — | 🔴 BYE (week 11) |
+| WR | Tetairoa McMillan (WR, CAR) | 12.4 | BAL | 🟢  |
+| TE | Harold Fannin Jr. (TE, CLE) | 0.0 | — | 🔴 BYE (week 11) |
+| FLEX | DJ Moore (WR, BUF) | 11.2 | MIA | 🟢  |
+| FLEX | Braelon Allen (RB, NYJ) | 8.2 | LAC | 🟢  |
+| K | Matt Gay (K, LV) | 7.3 | DEN | 🟢  |
+| DEF | CIN DEF (DEF, CIN) | 6.5 | WAS | 🟢  |
 
-## ✅ All starters available
+## ⚠️ Action needed
+
+- **WR: Jaxon Smith-Njigba (WR, SEA)** — BYE (week 11)
+    - swap in Josh Downs (WR, KC) — proj 7.2
+- **TE: Harold Fannin Jr. (TE, CLE)** — BYE (week 11)
+    - no eligible bench replacement — pick up a free agent
 
 ## Bench
 
 | Player | Proj | Status |
 |---|--:|---|
-| Kirk Cousins (QB, MIN) | 15.1 | 🟢  |
-| Rico Dowdle (RB, PIT) | 8.9 | 🟢  |
-| MIN DEF (DEF, MIN) | 6.7 | 🟢  |
-| Josh Downs (WR, KC) | 6.0 | 🟢  |
-| T.J. Hockenson (TE, MIN) | 0.0 | 🔴 Out — Wrist |
+| Kirk Cousins (QB, MIN) | 17.8 | 🟢  |
+| Rico Dowdle (RB, PIT) | 7.5 | 🟢  |
+| T.J. Hockenson (TE, MIN) | 7.4 | 🔴 Out — Wrist |
+| Josh Downs (WR, KC) | 7.2 | 🟢  |
+| MIN DEF (DEF, MIN) | 6.1 | 🟢  |
 | Alec Pierce (WR, IND) (IR slot) | 0.0 | 🔴 IR — Heel |
+
+## Projection swaps (info only, ≥ 2.0 pt edge)
+
+- WR: Josh Downs (WR, KC) (7.2) over Jaxon Smith-Njigba (WR, SEA) (0.0) — +7.2
 

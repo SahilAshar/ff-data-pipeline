@@ -1,18 +1,46 @@
 {
   "season": "2026",
-  "week": 10,
+  "week": 11,
   "season_type": "regular",
-  "run_at_et": "2026-11-15T19:16-05:00",
+  "run_at_et": "2026-11-17T00:12-05:00",
   "user": "0xAshar",
-  "alert": false,
-  "red": false,
-  "changed": false,
-  "signature": [],
-  "alerts": [],
+  "alert": true,
+  "red": true,
+  "changed": true,
+  "signature": [
+    "TE:12506:RED",
+    "WR:9488:RED"
+  ],
+  "alerts": [
+    {
+      "slot": "WR",
+      "player_id": "9488",
+      "player": "Jaxon Smith-Njigba (WR, SEA)",
+      "level": "RED",
+      "reason": "BYE (week 11)",
+      "alternatives": [
+        {
+          "player": "Josh Downs (WR, KC)",
+          "pts": 7.2,
+          "flag": ""
+        }
+      ]
+    },
+    {
+      "slot": "TE",
+      "player_id": "12506",
+      "player": "Harold Fannin Jr. (TE, CLE)",
+      "level": "RED",
+      "reason": "BYE (week 11)",
+      "alternatives": []
+    }
+  ],
   "bye_teams": [
-    "CHI",
-    "DEN",
-    "PHI",
-    "TB"
+    "ATL",
+    "CLE",
+    "GB",
+    "LAR",
+    "NE",
+    "SEA"
   ]
 }
