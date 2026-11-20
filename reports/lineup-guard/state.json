@@ -2,26 +2,27 @@
   "season": "2026",
   "week": 11,
   "season_type": "regular",
-  "run_at_et": "2026-11-17T03:24-05:00",
+  "run_at_et": "2026-11-19T23:12-05:00",
   "user": "0xAshar",
   "alert": true,
   "red": true,
-  "changed": false,
+  "changed": true,
   "signature": [
-    "TE:12506:RED",
-    "WR:9488:RED"
+    "K:6083:YELLOW",
+    "RB:12490:YELLOW",
+    "TE:12506:RED"
   ],
   "alerts": [
     {
-      "slot": "WR",
-      "player_id": "9488",
-      "player": "Jaxon Smith-Njigba (WR, SEA)",
-      "level": "RED",
-      "reason": "BYE (week 11)",
+      "slot": "RB",
+      "player_id": "12490",
+      "player": "Bhayshul Tuten (RB, JAX)",
+      "level": "YELLOW",
+      "reason": "Questionable \u2014 Ankle",
       "alternatives": [
         {
-          "player": "Josh Downs (WR, KC)",
-          "pts": 7.2,
+          "player": "Rico Dowdle (RB, PIT)",
+          "pts": 7.5,
           "flag": ""
         }
       ]
@@ -32,6 +33,20 @@
       "player": "Harold Fannin Jr. (TE, CLE)",
       "level": "RED",
       "reason": "BYE (week 11)",
+      "alternatives": [
+        {
+          "player": "T.J. Hockenson (TE, MIN)",
+          "pts": 7.2,
+          "flag": "Questionable \u2014 Wrist"
+        }
+      ]
+    },
+    {
+      "slot": "K",
+      "player_id": "6083",
+      "player": "Matt Gay (K, LV)",
+      "level": "YELLOW",
+      "reason": "Questionable \u2014 Hip",
       "alternatives": []
     }
   ],
