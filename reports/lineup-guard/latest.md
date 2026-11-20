@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 11
 
-Run Thu 2026-11-19 11:12 PM ET · season_type=regular · byes this week: ATL, CLE, GB, LAR, NE, SEA
+Run Fri 2026-11-20 02:39 AM ET · season_type=regular · byes this week: ATL, CLE, GB, LAR, NE, SEA
 
 ## Starters
 
@@ -20,7 +20,7 @@ Run Thu 2026-11-19 11:12 PM ET · season_type=regular · byes this week: ATL, CL
 ## ⚠️ Action needed
 
 - **RB: Bhayshul Tuten (RB, JAX)** — Questionable — Ankle
-    - swap in Rico Dowdle (RB, PIT) — proj 7.5
+    - swap in Rico Dowdle (RB, PIT) — proj 7.6
 - **TE: Harold Fannin Jr. (TE, CLE)** — BYE (week 11)
     - swap in T.J. Hockenson (TE, MIN) — proj 7.2 (Questionable — Wrist)
 - **K: Matt Gay (K, LV)** — Questionable — Hip
@@ -31,7 +31,7 @@ Run Thu 2026-11-19 11:12 PM ET · season_type=regular · byes this week: ATL, CL
 | Player | Proj | Status |
 |---|--:|---|
 | Kirk Cousins (QB, MIN) | 17.1 | 🟢  |
-| Rico Dowdle (RB, PIT) | 7.5 | 🟢  |
+| Rico Dowdle (RB, PIT) | 7.6 | 🟢  |
 | T.J. Hockenson (TE, MIN) | 7.2 | 🟡 Questionable — Wrist |
 | MIN DEF (DEF, MIN) | 6.1 | 🟢  |
 | Alec Pierce (WR, IND) (IR slot) | 0.0 | 🔴 IR — Heel |
