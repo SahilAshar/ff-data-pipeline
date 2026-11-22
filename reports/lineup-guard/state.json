@@ -2,11 +2,11 @@
   "season": "2026",
   "week": 11,
   "season_type": "regular",
-  "run_at_et": "2026-11-22T16:12-05:00",
+  "run_at_et": "2026-11-22T16:40-05:00",
   "user": "0xAshar",
   "alert": true,
   "red": false,
-  "changed": true,
+  "changed": false,
   "signature": [
     "FLEX:4983:YELLOW",
     "RB:3198:YELLOW"
@@ -17,7 +17,7 @@
       "player_id": "3198",
       "player": "Derrick Henry (RB, BAL)",
       "level": "YELLOW",
-      "reason": "Questionable \u2014 Undisclosed",
+      "reason": "Questionable \u2014 Concussion",
       "alternatives": [
         {
           "player": "Rico Dowdle (RB, PIT)",
