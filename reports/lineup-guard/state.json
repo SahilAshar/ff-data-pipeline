@@ -2,37 +2,28 @@
   "season": "2026",
   "week": 11,
   "season_type": "regular",
-  "run_at_et": "2026-11-21T19:13-05:00",
+  "run_at_et": "2026-11-22T15:57-05:00",
   "user": "0xAshar",
   "alert": true,
-  "red": true,
+  "red": false,
   "changed": true,
   "signature": [
-    "K:6083:YELLOW",
-    "TE:12506:RED"
+    "FLEX:4983:YELLOW"
   ],
   "alerts": [
     {
-      "slot": "TE",
-      "player_id": "12506",
-      "player": "Harold Fannin Jr. (TE, CLE)",
-      "level": "RED",
-      "reason": "BYE (week 11)",
+      "slot": "FLEX",
+      "player_id": "4983",
+      "player": "DJ Moore (WR, BUF)",
+      "level": "YELLOW",
+      "reason": "Questionable \u2014 Knee",
       "alternatives": [
         {
-          "player": "T.J. Hockenson (TE, MIN)",
-          "pts": 7.2,
+          "player": "Rico Dowdle (RB, PIT)",
+          "pts": 8.2,
           "flag": ""
         }
       ]
-    },
-    {
-      "slot": "K",
-      "player_id": "6083",
-      "player": "Matt Gay (K, LV)",
-      "level": "YELLOW",
-      "reason": "Questionable \u2014 Hip",
-      "alternatives": []
     }
   ],
   "bye_teams": [
