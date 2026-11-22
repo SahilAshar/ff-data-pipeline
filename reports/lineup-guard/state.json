@@ -2,31 +2,16 @@
   "season": "2026",
   "week": 11,
   "season_type": "regular",
-  "run_at_et": "2026-11-20T02:39-05:00",
+  "run_at_et": "2026-11-21T19:13-05:00",
   "user": "0xAshar",
   "alert": true,
   "red": true,
-  "changed": false,
+  "changed": true,
   "signature": [
     "K:6083:YELLOW",
-    "RB:12490:YELLOW",
     "TE:12506:RED"
   ],
   "alerts": [
-    {
-      "slot": "RB",
-      "player_id": "12490",
-      "player": "Bhayshul Tuten (RB, JAX)",
-      "level": "YELLOW",
-      "reason": "Questionable \u2014 Ankle",
-      "alternatives": [
-        {
-          "player": "Rico Dowdle (RB, PIT)",
-          "pts": 7.6,
-          "flag": ""
-        }
-      ]
-    },
     {
       "slot": "TE",
       "player_id": "12506",
@@ -37,7 +22,7 @@
         {
           "player": "T.J. Hockenson (TE, MIN)",
           "pts": 7.2,
-          "flag": "Questionable \u2014 Wrist"
+          "flag": ""
         }
       ]
     },
