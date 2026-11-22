@@ -2,15 +2,30 @@
   "season": "2026",
   "week": 11,
   "season_type": "regular",
-  "run_at_et": "2026-11-22T15:57-05:00",
+  "run_at_et": "2026-11-22T16:12-05:00",
   "user": "0xAshar",
   "alert": true,
   "red": false,
   "changed": true,
   "signature": [
-    "FLEX:4983:YELLOW"
+    "FLEX:4983:YELLOW",
+    "RB:3198:YELLOW"
   ],
   "alerts": [
+    {
+      "slot": "RB",
+      "player_id": "3198",
+      "player": "Derrick Henry (RB, BAL)",
+      "level": "YELLOW",
+      "reason": "Questionable \u2014 Undisclosed",
+      "alternatives": [
+        {
+          "player": "Rico Dowdle (RB, PIT)",
+          "pts": 8.2,
+          "flag": ""
+        }
+      ]
+    },
     {
       "slot": "FLEX",
       "player_id": "4983",

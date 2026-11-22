@@ -1,13 +1,13 @@
 # Lineup guard — 0xAshar — 2026 week 11
 
-Run Sun 2026-11-22 03:57 PM ET · season_type=regular · byes this week: ATL, CLE, GB, LAR, NE, SEA
+Run Sun 2026-11-22 04:12 PM ET · season_type=regular · byes this week: ATL, CLE, GB, LAR, NE, SEA
 
 ## Starters
 
 | Slot | Starter | Proj | Opp | Status |
 |---|---|--:|---|---|
 | QB | Josh Allen (QB, BUF) | 24.7 | MIA | 🟢  |
-| RB | Derrick Henry (RB, BAL) | 14.8 | CAR | 🟢  |
+| RB | Derrick Henry (RB, BAL) | 14.8 | CAR | 🟡 Questionable — Undisclosed |
 | RB | Bhayshul Tuten (RB, JAX) | 14.3 | NYG | 🟢  |
 | WR | Josh Downs (WR, KC) | 8.5 | ARI | 🟢  |
 | WR | Tetairoa McMillan (WR, CAR) | 12.3 | BAL | 🟢  |
@@ -19,6 +19,8 @@ Run Sun 2026-11-22 03:57 PM ET · season_type=regular · byes this week: ATL, CL
 
 ## ⚠️ Action needed
 
+- **RB: Derrick Henry (RB, BAL)** — Questionable — Undisclosed
+    - swap in Rico Dowdle (RB, PIT) — proj 8.2
 - **FLEX: DJ Moore (WR, BUF)** — Questionable — Knee
     - swap in Rico Dowdle (RB, PIT) — proj 8.2
 
