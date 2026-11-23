@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 11
 
-Run Sun 2026-11-22 07:24 PM ET · season_type=regular · byes this week: ATL, CLE, GB, LAR, NE, SEA
+Run Sun 2026-11-22 08:04 PM ET · season_type=regular · byes this week: ATL, CLE, GB, LAR, NE, SEA
 
 ## Starters
 
