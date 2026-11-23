@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 11
 
-Run Sun 2026-11-22 04:55 PM ET · season_type=regular · byes this week: ATL, CLE, GB, LAR, NE, SEA
+Run Sun 2026-11-22 07:24 PM ET · season_type=regular · byes this week: ATL, CLE, GB, LAR, NE, SEA
 
 ## Starters
 
@@ -11,7 +11,7 @@ Run Sun 2026-11-22 04:55 PM ET · season_type=regular · byes this week: ATL, CL
 | RB | Bhayshul Tuten (RB, JAX) | 14.3 | NYG | 🟢  |
 | WR | Josh Downs (WR, KC) | 8.5 | ARI | 🟢  |
 | WR | Tetairoa McMillan (WR, CAR) | 12.3 | BAL | 🟢  |
-| TE | T.J. Hockenson (TE, MIN) | 7.1 | SF | 🟢  |
+| TE | T.J. Hockenson (TE, MIN) | 7.0 | SF | 🟢  |
 | FLEX | DJ Moore (WR, BUF) | 11.0 | MIA | 🟡 Questionable — Knee |
 | FLEX | Braelon Allen (RB, NYJ) | 8.4 | LAC | 🟢  |
 | K | Cairo Santos (K, CHI) | 8.1 | NO | 🟢  |
@@ -28,7 +28,7 @@ Run Sun 2026-11-22 04:55 PM ET · season_type=regular · byes this week: ATL, CL
 
 | Player | Proj | Status |
 |---|--:|---|
-| Kirk Cousins (QB, MIN) | 16.6 | 🟢  |
+| Kirk Cousins (QB, MIN) | 16.5 | 🟢  |
 | Rico Dowdle (RB, PIT) | 8.2 | 🟢  |
 | MIN DEF (DEF, MIN) | 6.0 | 🟢  |
 | Harold Fannin Jr. (TE, CLE) | 0.0 | 🔴 BYE (week 11) |
