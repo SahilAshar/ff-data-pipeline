@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 12
 
-Run Tue 2026-11-24 02:03 AM ET · season_type=regular · byes this week: none/unknown
+Run Tue 2026-11-24 05:20 AM ET · season_type=regular · byes this week: none/unknown
 
 ## Starters
 
@@ -43,6 +43,6 @@ Run Tue 2026-11-24 02:03 AM ET · season_type=regular · byes this week: none/un
 
 - WR: Jaxon Smith-Njigba (WR, SEA) (20.9) over Josh Downs (WR, KC) (6.4) — +14.5
 - FLEX: Jaxon Smith-Njigba (WR, SEA) (20.9) over Braelon Allen (RB, NYJ) (8.1) — +12.8
-- FLEX: Jaxon Smith-Njigba (WR, SEA) (20.9) over DJ Moore (WR, BUF) (10.5) — +10.4
-- WR: Jaxon Smith-Njigba (WR, SEA) (20.9) over Tetairoa McMillan (WR, CAR) (11.6) — +9.2
+- FLEX: Jaxon Smith-Njigba (WR, SEA) (20.9) over DJ Moore (WR, BUF) (10.5) — +10.5
+- WR: Jaxon Smith-Njigba (WR, SEA) (20.9) over Tetairoa McMillan (WR, CAR) (11.6) — +9.3
 
