@@ -1,14 +1,15 @@
 {
   "season": "2026",
-  "week": 11,
+  "week": 12,
   "season_type": "regular",
-  "run_at_et": "2026-11-22T20:04-05:00",
+  "run_at_et": "2026-11-24T02:03-05:00",
   "user": "0xAshar",
   "alert": true,
   "red": false,
-  "changed": false,
+  "changed": true,
   "signature": [
     "FLEX:4983:YELLOW",
+    "RB:12490:YELLOW",
     "RB:3198:YELLOW"
   ],
   "alerts": [
@@ -21,7 +22,21 @@
       "alternatives": [
         {
           "player": "Rico Dowdle (RB, PIT)",
-          "pts": 8.2,
+          "pts": 6.9,
+          "flag": ""
+        }
+      ]
+    },
+    {
+      "slot": "RB",
+      "player_id": "12490",
+      "player": "Bhayshul Tuten (RB, JAX)",
+      "level": "YELLOW",
+      "reason": "Questionable \u2014 Undisclosed",
+      "alternatives": [
+        {
+          "player": "Rico Dowdle (RB, PIT)",
+          "pts": 6.9,
           "flag": ""
         }
       ]
@@ -34,19 +49,22 @@
       "reason": "Questionable \u2014 Knee",
       "alternatives": [
         {
+          "player": "Jaxon Smith-Njigba (WR, SEA)",
+          "pts": 20.9,
+          "flag": ""
+        },
+        {
+          "player": "Harold Fannin Jr. (TE, CLE)",
+          "pts": 9.8,
+          "flag": ""
+        },
+        {
           "player": "Rico Dowdle (RB, PIT)",
-          "pts": 8.2,
+          "pts": 6.9,
           "flag": ""
         }
       ]
     }
   ],
-  "bye_teams": [
-    "ATL",
-    "CLE",
-    "GB",
-    "LAR",
-    "NE",
-    "SEA"
-  ]
+  "bye_teams": []
 }
