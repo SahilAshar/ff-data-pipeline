@@ -2,15 +2,16 @@
   "season": "2026",
   "week": 12,
   "season_type": "regular",
-  "run_at_et": "2026-11-24T05:20-05:00",
+  "run_at_et": "2026-11-27T00:16-05:00",
   "user": "0xAshar",
   "alert": true,
   "red": false,
-  "changed": false,
+  "changed": true,
   "signature": [
-    "FLEX:4983:YELLOW",
     "RB:12490:YELLOW",
-    "RB:3198:YELLOW"
+    "RB:3198:YELLOW",
+    "WR:12526:YELLOW",
+    "WR:9488:YELLOW"
   ],
   "alerts": [
     {
@@ -21,8 +22,13 @@
       "reason": "Questionable \u2014 Concussion",
       "alternatives": [
         {
+          "player": "Braelon Allen (RB, NYJ)",
+          "pts": 8.2,
+          "flag": ""
+        },
+        {
           "player": "Rico Dowdle (RB, PIT)",
-          "pts": 6.9,
+          "pts": 6.8,
           "flag": ""
         }
       ]
@@ -35,35 +41,32 @@
       "reason": "Questionable \u2014 Undisclosed",
       "alternatives": [
         {
+          "player": "Braelon Allen (RB, NYJ)",
+          "pts": 8.2,
+          "flag": ""
+        },
+        {
           "player": "Rico Dowdle (RB, PIT)",
-          "pts": 6.9,
+          "pts": 6.8,
           "flag": ""
         }
       ]
     },
     {
-      "slot": "FLEX",
-      "player_id": "4983",
-      "player": "DJ Moore (WR, BUF)",
+      "slot": "WR",
+      "player_id": "9488",
+      "player": "Jaxon Smith-Njigba (WR, SEA)",
       "level": "YELLOW",
-      "reason": "Questionable \u2014 Knee",
-      "alternatives": [
-        {
-          "player": "Jaxon Smith-Njigba (WR, SEA)",
-          "pts": 20.9,
-          "flag": ""
-        },
-        {
-          "player": "Harold Fannin Jr. (TE, CLE)",
-          "pts": 9.8,
-          "flag": ""
-        },
-        {
-          "player": "Rico Dowdle (RB, PIT)",
-          "pts": 6.9,
-          "flag": ""
-        }
-      ]
+      "reason": "Questionable \u2014 Ankle",
+      "alternatives": []
+    },
+    {
+      "slot": "WR",
+      "player_id": "12526",
+      "player": "Tetairoa McMillan (WR, CAR)",
+      "level": "YELLOW",
+      "reason": "Questionable \u2014 Foot",
+      "alternatives": []
     }
   ],
   "bye_teams": []
