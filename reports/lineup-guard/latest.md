@@ -1,6 +1,6 @@
 # Lineup guard — 0xAshar — 2026 week 12
 
-Run Fri 2026-11-27 12:16 AM ET · season_type=regular · byes this week: none/unknown
+Run Fri 2026-11-27 03:57 AM ET · season_type=regular · byes this week: none/unknown
 
 ## Starters
 
@@ -35,7 +35,7 @@ Run Fri 2026-11-27 12:16 AM ET · season_type=regular · byes this week: none/un
 | Player | Proj | Status |
 |---|--:|---|
 | Kirk Cousins (QB, MIN) | 17.6 | 🟢  |
-| Harold Fannin Jr. (TE, CLE) | 9.2 | 🟢  |
+| Harold Fannin Jr. (TE, CLE) | 9.0 | 🟢  |
 | CIN DEF (DEF, CIN) | 8.4 | 🟢  |
 | Braelon Allen (RB, NYJ) | 8.2 | 🟢  |
 | Rico Dowdle (RB, PIT) | 6.8 | 🟢  |
@@ -43,5 +43,5 @@ Run Fri 2026-11-27 12:16 AM ET · season_type=regular · byes this week: none/un
 
 ## Projection swaps (info only, ≥ 2.0 pt edge)
 
-- FLEX: Harold Fannin Jr. (TE, CLE) (9.2) over Josh Downs (WR, KC) (5.4) — +3.9
+- FLEX: Harold Fannin Jr. (TE, CLE) (9.0) over Josh Downs (WR, KC) (5.4) — +3.6
 
